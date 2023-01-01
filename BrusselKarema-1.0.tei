@@ -1,0 +1,1202 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --     130 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --      42 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       4 -->
+
+]>
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Van Brussel naar Karema: Geschiedenis eener Belgische Kolonie in Midden-Afrika</title>
+<author key="Wauters, Alphonse Jules" ref="https://viaf.org/viaf/59468283/">Alphonse-Jules Wauters (1845&ndash;1916)</author>
+<respStmt><resp lang=en>Translation</resp> <name key="Cuyck, Frans van" ref="https://viaf.org/viaf/206276506/">Frans van Cuyck (1857&ndash;1952)</name></respStmt>
+<respStmt><resp lang=en>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20180120040522wauters</idno>
+<idno type=PGDPProjectId>projectID5a9acb5804367</idno>
+<idno type=PGSrc>57959-Wauters-Van-Brussel-naar-Karema</idno>
+<idno type=epub-id>urn:uuid:7106eaaa-5458-4d7b-801e-b0fbfcacc2b6</idno>
+<idno type=PGnum>57959</idno>
+<date>2018-09-23</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans van dit boek zijn beschikbaar in het Internet Archive (kopie <xref url="https://archive.org/details/vanbrusselnaarka00waut">1</xref>).
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">#####<!--Een korte beschrijving van dit document.--></note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>A.-J. Wauters</author>
+<title>Van Brussel naar Karema: Geschiedenis eener Belgische Kolonie in Midden-Afrika</title>
+<date>[1881]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=fr>Frans</language>
+        <language id=la>Latijn</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2018-09-21 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Nieuw ontworpen voorkant.</figDesc>
+</figure>
+
+
+
+<pb facs="f:1" n=1 id=pb1>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center) font-size(large)">VAN BRUSSEL NAAR KAREMA
+
+<p rend="align(center)">GESCHIEDENIS EENER BELGISCHE KOLONIE IN MIDDEN-AFRIKA
+
+
+
+<pb facs="f:2" n=2 id=pb2>
+<div1 id=imprint type=Imprint>
+
+
+<p rend="align(center) font-size(small)">Brussel. &mdash; Drukkerij van J. Lebègue en C<hi rend=sup>o</hi>, 2, Plichtgang.
+
+
+
+<pb facs="f:3" n=3 id=pb3>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
+</figure>
+
+
+
+
+<titlePage>
+<docTitle><titlePart type=series>NATIONALE VERZAMELING</titlePart>
+
+<titlePart>VAN BRUSSEL
+
+<lb>NAAR KAREMA</titlePart>
+
+<titlePart type=sub>GESCHIEDENIS EENER BELGISCHE KOLONIE
+
+<lb>IN MIDDEN-AFRIKA</titlePart>
+</docTitle>
+
+<byline>DOOR
+
+<lb><docAuthor>A.-J. WAUTERS</docAuthor>
+
+<lb>BIJGEVOEGD SECRETARIS VAN DE BELGISCHE MAATSCHAPPIJ VAN AARDRIJKSKUNDE
+
+<lb>VERTAALD DOOR <hi rend=bold>FRANS VAN CUYCK</hi>
+</byline>
+
+<!-- [Illustration] -->
+
+<docImprint>BRUSSEL
+<lb>BOEKHANDEL VAN J. LEBÈGUE EN C<hi rend=sup>o</hi><corr>.</corr>
+<lb>46, MAGDALENASTRAAT, 46
+</titlePage>
+
+
+
+<pb facs="f:5" n=5 id=pb5>
+<div1 id=dedic type=Dedication>
+
+
+
+<p rend="align(center) font-size(large)">OPGEDRAGEN
+
+<p rend="align(center)">AAN
+
+<p rend="align(center) font-size(large)"><hi>Mevrouw Ernest Cambier</hi>
+
+
+
+
+<pb facs="f:6" n=6 id=pb6>
+<div1 id=toc type=Contents>
+<head>INHOUDSTAFEL</head>
+
+
+<list type=tocList>
+<item>                <ab type=tocPageNum>Bladz.</ab>
+
+<item><hi rend=sc><ref target=dedic>Opdracht</ref></hi>      <ab type=tocPageNum>5</ab>
+<item><hi rend=sc><ref target=preface>Voorrede</ref></hi>      <ab type=tocPageNum>7</ab>
+
+<item><ab type=tocDivNum>I. &mdash;</ab>  <ref target=ch1>De internationale Afrikaansche Vereeniging</ref>      <ab type=tocPageNum>11</ab>
+<item><ab type=tocDivNum>II. &mdash;</ab>  <ref target=ch2>De Weg op Zanzibar</ref>      <ab type=tocPageNum>16</ab>
+<item><ab type=tocDivNum>III. &mdash;</ab>  <ref target=ch3>Zanzibar</ref>      <ab type=tocPageNum>20</ab>
+<item><ab type=tocDivNum>IV. &mdash;</ab>  <ref target=ch4>Rouw en Herinrichting</ref>      <ab type=tocPageNum>25</ab>
+<item><ab type=tocDivNum>V. &mdash;</ab>  <ref target=ch5>Eene Afrikaansche Karavaan</ref>      <ab type=tocPageNum>29</ab>
+<item><ab type=tocDivNum>VI. &mdash;</ab>  <ref target=ch6>Het Vertrek en het Deserteeren der Dragers</ref>      <ab type=tocPageNum>36</ab>
+<item><ab type=tocDivNum>VII. &mdash;</ab>  <ref target=ch7>Bij de Roovers Wagogo</ref>      <ab type=tocPageNum>42</ab>
+<item><ab type=tocDivNum>VIII. &mdash;</ab>  <ref target=ch8>Mirambo, de zwarte Bonaparte</ref>      <ab type=tocPageNum>50</ab>
+<item><ab type=tocDivNum>IX. &mdash;</ab>  <ref target=ch9>De Dood van Wautier</ref>      <ab type=tocPageNum>56</ab>
+<item><ab type=tocDivNum>X. &mdash;</ab>  <ref target=ch10>Tabora</ref>      <ab type=tocPageNum>62</ab>
+<item><ab type=tocDivNum>XI. &mdash;</ab>  <ref target=ch11>Laatste Baangedeelte</ref>      <ab type=tocPageNum>67</ab>
+<item><ab type=tocDivNum>XII. &mdash;</ab>  <ref target=ch12>De eerste Onderzoekers van het Tanganikameer</ref>      <ab type=tocPageNum>70</ab>
+<item><ab type=tocDivNum>XIII. &mdash;</ab>  <ref target=ch13>Het Meer en zijne Boorden</ref>      <ab type=tocPageNum>79</ab>
+<item><ab type=tocDivNum>XIV. &mdash;</ab>  <ref target=ch14>Karema</ref>      <ab type=tocPageNum>86</ab>
+<item><ab type=tocDivNum>XV. &mdash;</ab>  <ref target=ch15>De Toekomst van Midden-Afrika</ref>      <ab type=tocPageNum>98</ab>
+</list>
+
+
+
+
+<pb facs="f:7" n=7 id=pb7>
+<div1 id=preface type=Preface>
+<head>VOORREDE</head>
+
+
+<p>Welk aandeel hebben de Belgen genomen in de ontdekking der wereld?
+
+<p>Wanneer men de lijst naziet van de stoute baanbrekers, die, van het Oosten naar het Westen, van den pool tot den evenaar, land en zee doorkruist hebben, van jaar tot jaar het gebied van het onbekende inkrimpende, dan ontmoet men heele scharen van Engelschen en Nederlanders, Spanjaards en Portugeezen, Duitschers en Franschen; men vindt er ook namen tusschen van Italianen, Zweden, Russen, Oostenrijkers, Zwitsers, maar van Belgen... geenen enkelen!
+
+<p>Het is zoo erg, dat de heer Goblet d&apos;Alviella, toen hij vóor eenige jaren de vaderlandsche geschiedenis der reizen, ontdekkingen en uitwijkingen schreef, zich verplicht zag, zijne verhandeling te beginnen met de volgende bekentenis, vol bittere scherts: «Het is wel eenigszins vernederend, in een werk over de aardrijkskundige ontdekkingen van Belgische <pb facs="f:8" n=8 id=pb8>reizigers, te moeten aantoonen, dat zij er nooit eene gedaan hebben.»
+
+<p>Indien de reis, waarvan dit boekje het doel, den weg en den uitslag wil vertellen, uit het oogpunt der eigenlijk gezegde ontdekkingen eveneens geene geruchtmakende gevolgen heeft opgeleverd, zij had ten minste de verdienste&mdash;en die is niet gering&mdash;van te bewijzen, dat er in België zekeren dag een burger is opgestaan&mdash;de eerste van allen&mdash;die zijn land heeft trachten los te rukken uit de schandelijke onverschilligheid voor hetgeen buiten zijne enge grenzen gebeurt, en dat er ook mannen gevonden werden, die het hart hadden hem te ondersteunen in zijne stoute plannen.
+
+
+<pb facs="f:10" n=10 id=pb10>
+
+<figure id=p010>
+<head><hi rend=sc>Leopold II.</hi> Koning der Belgen en Souverein van den Congo vrijstaat.</head>
+</figure>
+
+
+
+
+<pb facs="f:11" n=11 id=pb11>
+</front>
+<body>
+<div1 id=ch1 n=I type=Chapter>
+<head type=super>VAN BRUSSEL NAAR KAREMA</head>
+
+<head type=label>I</head>
+
+<head>De internationale Afrikaansche Vereeniging</head>
+
+
+
+<p>In de maand September 1876 stichtte koning Leopold II de <hi>Internationale Afrikaansche Vereeniging</hi>.
+
+<p>Onder koninklijke voorzitterschap vergaderde in het paleis van Brussel eene aardrijkskundige conferentie, waaraan gehouden hadden deel te nemen, beroemde reizigers, zooals de heeren: Nachtigal, Schweinfurth, Cameron, Rohlfs, Grant, Duveyrier; geleerde aardrijkskundigen, zooals de heeren: de Richthofen, de Hochstetter, de Semenon, d&apos;Abbadie; politieke beroemdheden, gelijk de heeren Bartle Frère, Emile de Laveleye, Negri, enz.
+
+<p>Deze conferentie, waarbij de zes groote Europeesche <pb facs="f:12" n=12 id=pb12>mogendheden en België vertegenwoordigd waren, had voor doel de bespreking van de zoo buitengewoon belangrijke kwestie van de uitbating en beschaving van Afrika, zijnen tegenwoordigen toestand vast te stellen en de uitslagen, tot hiertoe bekomen; nauwkeurig te bepalen wat er nog te doen bleef om de duisterheid te doorboren, welke de centrale streken omgeeft, er de voordeelen van te verkennen, welke onmetelijk schijnen, er de schatten onzer beschaving in te storten, en eindelijk, den slavenhandel te dwarsboomen en af te schaffen.
+
+<p>De bespreking werd gedurende drie dagen voortgezet.
+
+<p>De besluiten en verklaringen, door de vergadering vóor het uiteengaan gestemd, vatten het werk samen en dienen er tot programma van.
+
+<p>Ziehier de bijzonderste punten.
+
+<milestone unit=tb>
+
+<p>De conferencie beperkte het deel van Afrika, hetwelk zij zich voorstelde te onderzoeken, tusschen de grens van den Egyptischen Soedan, ten Noorden, en de kom van de Zambezia, ten Zuiden.
+
+<p>Deze onmetelijke streek, waar Nijl en Zambezia hunnen oorsprong nemen, welke de reusachtige Congostroom bijna in hare volle breedte doorsnijdt, waar de groote equatoriale meren verspreid liggen, is degene, welke men sedertdien meer in &apos;t bijzonder aanduidt met den naam van <hi>Centraal Afrika</hi>.
+
+<pb facs="f:13" n=13 id=pb13><p>Het is eigenlijk eene nieuwe wereld, die niet minder dan zevenmaal de oppervlakte van Frankrijk meet en, onder de parallel van Zanzibar, eene breedte heeft van ongeveer drijduizend kilometers of zeshonderd mijlen, hetgeen overeenkomt met den afstand, tusschen Brussel en Constantinopel.
+
+<p>Er werd besloten, dat men door dit onmetelijk grondgebied zou trachten wegen te openen, onmisbaar voor het invoeren der beschaving in het binnenland, en dat er langsheen deze banen wetenschappelijke en gastvrije standplaatsen zouden worden gevestigd.
+
+<p>Hunne wetenschappelijke zending zou bestaan: in sterre- en weêrkundige waarnemingen; in het aanleggen van verzamelingen van aard<corr>-</corr>, plant- en dierkunde; in het opmaken van de kaart der omstreken; in het opstellen van een blad, hetwelk al de gebeurtenissen zou meedeelen, waard om vermeld te worden.
+
+<p>Hunne gastvrijheid zou zich openbaren in het opnemen van alle reizigers, die, met een menschlievend, godsdienstig, handels- of nijverheidsdoel, het onderzoeken van een deel van Afrika&apos;s vastland zouden ondernomen hebben; hen te voorzien, tegen den inkoopprijs daar ter plaats, van tuigen, mondbehoeften, koopwaren, zoowel als van gidsen en tolken; hen in te lichten over de beste wegen en hunne briefwisseling te bezorgen.
+
+<pb facs="f:14" n=14 id=pb14>
+
+
+<figure id=p015>
+<head>De Kaai van Zanzibar.</head>
+</figure>
+
+
+<pb facs="f:15" n=15 id=pb15><p>In eene tweede vergadering, welke plaatsgreep te Brussel, op 20 Juni 1877, werd er beslist, dat de handelsweg, die van de kust van Zanzibar naar het meer Tanganika voert, zou gekozen worden als bazis van de eerste ondernemingen, en dat eene eerste standplaats zou gevestigd worden in den omtrek van &apos;t meer.
+
+<p>Van de verschillige nationale comiteiten, waaruit de Afrikaansche Vereeniging is samengesteld, was het Belgisch comiteit het eenige, dat lang genoeg bestond om eene werkdadige rol te spelen, en daarom werd het natuurlijk aangewezen om den eersten tocht in te richten en de eerste standplaats in het leven te roepen.
+
+<p>De uitvoering volgde de beslissing op den voet, zooals wij zullen zien in de volgende hoofdstukken.
+
+
+
+
+<pb facs="f:16" n=16 id=pb16>
+<div1 id=ch2 n=II>
+<head type=label>II</head>
+
+<head>De Weg op Zanzibar</head>
+
+
+<p>Vastgesteld in de maand Juni 1877, was de eerste expeditie van de Internationale Afrikaansche Vereeniging gereed om België te verlaten in de maand October daaropvolgende.
+
+<p>Zij bestond uit de heeren Crespel, kapitein bij het 2<hi rend=sup>de</hi> linieregiment, Cambier, luitenant bij het achtste, en Maes, doctor in de natuurlijke wetenschappen. De heer kapitein Marna van het Oostenrijksch leger, gekend wegens verschillige onderzoekingen in de kom van den Nijl, vergezelde de reizigers.
+
+<p>Het vertrek vond plaats op 15 October.
+
+<p>Daar de <hi lang=en>Union Mail steam ship Company</hi> van Southampton aan de Vereeniging het kosteloos vervoer der expeditie wel had willen aanbieden, zoo nam deze den weg langs den Atlantischen oceaan.
+
+<p>Dit is de langste en kostelijkste baan.
+
+<p>Brussel staat in spoedige verbinding met de oostkust van Afrika langs den weg op Brindisi; de <pb facs="f:17" n=17 id=pb17>«<foreign lang=fr>malle des Indes</foreign>» langs het Suezkanaal en de Roode Zee tot aan Aden; eindelijk de stoombooten van de <hi lang=en>British India Company</hi> van deze stad naar Zanzibar. De reis vordert een twintigtal dagen en kost ongeveer 2.500 frank per persoon.
+
+<p>Engeland heeft zooeven dit verkeer vervolledigd door het leggen van een telegrafischen kabel, verbindende, langsheen de kust, zijne bezittingen van Zuid-Afrika met Aden en bijgevolg met Europa en Indië. De lijn is geopend sedert twee jaar. De depechen van Brussel naar Zanzibar zijn op hunne bestemming in drij uren, langs Parijs, Marseille, Malta, Suez en Aden. De prijs is 9,35 frank per woord. De lijn is ingehuldigd geworden door gelukwenschen, gericht tot koning Leopold II door sultan Saïd-Bargash.
+
+<p>Eene eigenaardigheid: de telegrammen komen dikwijls te Brussel aan voor het uur hunner afzending; immers, het is middag te Zanzibar, wanneer het nog maar negen uren te Brussel is.
+
+<milestone unit=tb>
+
+<p>Vertrokken den 18<hi rend=sup>den</hi> October van Southampton aan boord van den stoomboot de <hi>Donau</hi>, landde de expeditie slechts den 12<hi rend=sup>den</hi> December te Zanzibar aan, na binnengeloopen te zijn te Kaapstad, Algoa Bay, Port-Elisabeth, Natal en Mozambika.
+
+
+<figure id=p018>
+<head><hi rend=sc>Stanley.</hi></head>
+</figure>
+
+
+<p>Zij werden er ontvangen door M. Greffulbe, vertegenwoordiger van het belangrijk huis Roux, de <pb facs="f:19" n=19 id=pb19>Freissinet en C<hi rend=sup>ie</hi> van Marseille, hetwelk een kantoor heeft te Zanzibar, en ontmoetten er Henry Stanley, die op hun eiland terugbracht de trouwe dienaars, welke hem vergezeld hadden op zijnen prachtigen overtocht van het vasteland. De beroemde ontdekkingsreiziger gaf nuttigen raad aan onze reizigers over de te volgen gedragslijn, ten einde zich het welgelukken hunner reis te verzekeren.
+
+
+
+
+<pb facs="f:20" n=20 id=pb20>
+<div1 n=III id=ch3>
+<head type=label>III</head>
+
+<head>Zanzibar</head>
+
+
+<p>Het sultanaat Zanzibar is een Staat van zeer jongen datum.
+
+<p>In 1856 stierf de Arabische sultan, die sedert een vijftigtal jaren onder eenen zelfden schepter hield vereenigd Mascate, op de golf van Oman in Azië, en Zanzibar, op de oostkust van Afrika; twee zijner zonen verdeelden onder elkander zijne Staten: Souhouaini werd sultan van Mascate, en Medjid, sultan van Zanzibar.
+
+<p>Deze laatste stierf op zijne beurt in 1870, en zijn broeder Bargasch volgde hem op. Hij voert het bewind sedert dit tijdstip.
+
+<p>Het is nog een jonge man met een open gelaat en een vriendelijk voorkomen. Zijne heerschappij strekt zich bij name uit over de kuststreek en tot in het hart van het vasteland, Maar feitelijk loopt zij uit op niets bij de negerstammen van &apos;t binnenland en zelfs bij de inboorlingen langsheen de zee; enkel de <pb facs="f:21" n=21 id=pb21>Arabische centrums, zooals Tabora, Oujiji en Nyangoué, erkennen haar.
+
+<milestone unit=tb>
+
+<p>De sultan van Zanzibar bezit eene vloot van vijf stoomschepen en een leger op zijn Europeesch; het wordt gevormd door de jongelingen van het land, die er dienst in nemen als vrijwilligers. Deze soldaten zijn goed gewapend en hunne roode uniform geeft in &apos;t oog.
+
+<p>«Het moeilijke van de zaak is geweest,» zegde een Belgisch reiziger, de heer Ad. Burdo, «deze krijgslieden over te halen om hunne voeten van schoeisels te voorzien: zij wilden hunne schoenen wel dragen om &apos;t even waar, maar aan hunne voeten nooit. Men is er eindelijk in geslaagd, dezen weerzin te overwinnen; evenwel zijn de oefeningen niet zoodra geëindigd, of de eerste zorg der soldaten is, zich van hun schoeisel te ontmaken, en dan krijgt men het vreemd schouwspel te zien van militairen in groot tenue, die barrevoets huiswaarts trekken, hunne laarzen in de hand of aan den loop van hun geweer gehangen.»
+
+<milestone unit=tb>
+
+<p>De stad Zanzibar is gelegen op de westkust van het eiland van denzelfden naam en op eenige uren varens van de kust van het Afrikaansch vasteland.
+
+<p>Hare bevolking, die, zoowat tien jaar geleden, slechts een twintigtal duizend inwoners telde, stijgt <pb facs="f:22" n=22 id=pb22>tegenwoordig tot omtrent de honderdduizend. De Europeesche kolonie bestaat bijna uitsluitend uit de diplomatische agenten der groote westelijke mogendheden, benevens het personeel der kantoren, gesticht door eenige handelshuizen. Zij telt een honderdtal vertegenwoordigers.
+
+<milestone unit=tb>
+
+<p>De handel is op dit eiland heel en gansch in handen van rijke Araben en Hindoes. Deze laatste hebben zich spoedig meestergemaakt, ten nadeele van de oude overwinnaars, van den handel met de inboorlingen van &apos;t binnenland en de kust. Het zijn zij, die thans in &apos;t groot aan de Europeesche huizen de producten voortverkoopen, welke zij zich in &apos;t klein hebben aangeschaft. Die producten bestaan voornamelijk uit ivoor, kopalhars, kruidnagels, kokosnoten, sesamzaad, verfmos, caoutchouc, huiden, enz.
+
+<p>Terwijl de Europeesche, Indiaansche en Arabische bevolking het zuidelijk deel der stad beslaat, dat, hetwelk zich uitstrekt langs de kaaien en uit hooge en zware vierkante huizen in metselwerk bestaat, bewoont de zwarte inlandsche bevolking de voorstad, welke van de eigenlijke stad gescheiden is door een diep meertje.
+
+<p>De hutten van dit kwartier zijn tamelijk ellendig; het zijn rechthoeken in vlechtwerk, bestreken met klei; de daken, in kokosbladeren, zijn dubbel en <pb facs="f:23" n=23 id=pb23>vormen rond de hutten eene soort van overdekte galerij, waar de bewoners zich overdag ophouden om te praten, te slapen of zich aan hunne bezigheden over te leveren.
+
+<milestone unit=tb>
+
+<p>«Een der kenmerkende trekken van Zanzibar,» zegde Cambier, «is de groote vrijheid, welke men er geniet. Alles is er toegelaten.
+
+<p>«Men legt kalkovens aan in volle straat; men breekt zijn huis af zonder zich er om te bekreunen, of het opgehoopte steengruis het verkeer niet zal belemmeren; de buren zoeken eenen anderen doorgang zonder de minste opmerking te maken; men werpt water en vuil door het venster, en wie beneden is, krijgt het op zijn hoofd; het dragen van wapens is er niet verboden, en men ziet er dan ook de Arabische kooplui wandelen met een heel wapenmagazijn aan hunnen gordel. Men mag zelfs zijnen gebuur dooden; maar dan moet men de boet betalen: voor eenen blanke of eenen Araab, 6000 frank, voor eenen neger, slechts 500.»
+
+<milestone unit=tb>
+
+<p>Sedert eenige jaren heeft Zanzibar ten opzichte van den handel een aanzienlijk belang verworven. Uit geschiedkundig oogpunt is zij bovendien eene plaats van eerste orde geworden. Het is immers daar, dat sedert 25 jaar al de groote expeditiën ingericht werden, die, van de oostkust, naar de <pb facs="f:24" n=24 id=pb24>groote meren wilden: die van Burton en Speke, welke in 1857 op zoek ging naar het Tanganikameer, en degene van Speke en Grant, die in 1860 de bronnen van den Nijl ontdekten; degene van Livingstone, vertrekkende in 1866 voor zijne laatste reis, en degene van Cameron, die in 1873 het vasteland doortrok tot aan den Atlantischen oceaan. Zanzibar was bovendien tweemaal het vertrekpunt van Stanley: in 1870, wanneer de befaamde onderzoekingsreiziger Livingstone ging opsporen, en in 1874, wanneer hij zich voor drij jaar in het duistere vasteland begroef, om er uit te komen langs den machtigen Congostroom, welken hij afvaarde, en wiens loop tot dan toe onbekend gebleven was.
+
+<p>Eindelijk is Zanzibar sedert 1877 op de Afrikaansche oostkust het uitgangspunt der ondernemingen geworden van de Afrikaansche Vereeniging, die er eenen vertegenwoordiger heeft.
+
+
+
+
+<pb facs="f:25" n=25 id=pb25>
+<div1 id=ch4 n=IV>
+<head type=label>IV</head>
+
+<head>Rouw en Herinrichting</head>
+
+
+<p>Ziedaar hoe &apos;t gesteld is met de stad Zanzibar, waar den 12<hi rend=sup>den</hi> December 1877 onze vier reizigers waren afgestapt, en waar twee hunner, helaas! weldra een graf zouden vinden.
+
+<p>Den 17<hi rend=sup>den</hi> Februari&mdash;twee maanden later&mdash;vernam het comiteit der Vereeniging door een telegram uit Aden verzonden, dat de heeren Crespel en Maes zooeven bijna schielijk bezweken waren aan de gevolgen van het Afrikaansch klimaat.
+
+<p>Te Brussel was de ontsteltenis groot.
+
+<p>De massa des volks, weinig op de hoogte van de reusachtige moeilijkheden der onderneming, gaf zich over aan een zeer levendig gevoel van ontmoediging en beschouwde de zaak als verloren. Zij vergat, dat er weinig Afrikaansche expeditiën zijn, die hunne martelaars niet gehad hebben, en dat de wegen door het <hi>duistere vasteland</hi>, begaan door mannen als Park, Tuckey, Clapperton, Barth, <pb facs="f:26" n=26 id=pb26>Livingstone, Cameron en Stanley, met graven zijn bezoomd.
+
+<p>Van den anderen kant prikkelde die eerste tegenslag den ijver nog aan van al degenen, die zich het gelukken der onderneming aantrokken. Hij moedigde den naijver aan der heldhaftige mannen, die naar de eer dongen van in dienst te treden onder het vaandel der Vereeniging. De aanvragen kwamen in menigte toe: voor twee soldaten, in de voorhoede gevallen, streefden er twintig uit de reserve naar het voorrecht, hen te gaan vervangen!
+
+<p>Door den dood der heeren kapitein Crespel en doctor Maes, was de expeditie verminderd tot op de helft harer leden. Bovendien, de heer Marno het besluit genomen hebbende om den dienst der Vereeniging te verlaten en naar Europa terug te keeren, bleef er de heer luitenant Cambier alleen over van de vier Europeanen, waaruit aanvankelijk de internationale expeditie bestond.
+
+<milestone unit=tb>
+
+<p>De nieuwe aanvoerder van den tocht werd geboren te Ath in 1844. Hij behoort tot het 8<hi rend=sup>ste</hi> linieregiment, is adjunct van den staf en was verbonden aan het krijgskundig cartografisch Gesticht. Krachtig karakter, onvermoeid werker, was de Belgische officier, door den dood van M. Crespel thans aan &apos;t hoofd der expeditie gesteld, in alle opzichten het hooge vertrouwen van het comiteit waardig.
+
+<pb facs="f:27" n=27 id=pb27><p>Het besloot, hem twee nieuwe gezellen toe te voegen en koos daarvoor twee onzer landgenooten, van wie het veronderstelde, dat zij, door hun vroeger verblijf in de heete landen, aan het tropisch klimaat gewend waren.
+
+<p>M. Wautier, luitenant bij het regiment der carabiniers, had deelgenomen aan den veldtocht van Mexiko, waar hij bewezen had, de vereischte hoedanigheden te bezitten voor de inrichting en de aanvoering van eenen verren tocht. De heer dokter Dutrieux was als geneesheer in &apos;t Belgisch leger getreden, hetwelk hij verlaten had om zich te Caïro te gaan vestigen, waar hij sedert vijf jaar verbleef.
+
+<milestone unit=tb>
+
+<p>Terwijl het personeel der eerste expeditie, een oogenblik ontredderd, aldus volledigd werd door toevoeging van twee nieuwe leden, die zich gereedmaakten om naar Zanzibar te komen, hervatte Cambier de uitvoering der plannen, welke de dood zijner twee eerste gezellen had doen uitstellen. Het uitstapje, dat hij in gezelschap van den heer Marno had ondernomen, langs den stroom Vouami, tot aan het dorp Kiora, had hem de volstrekte onmogelijkheid bewezen om de reis en het vervoer der bagage te beproeven bij middel van ossenkarren, niet alleen ter oorzake van de totale afwezigheid van wegen, de gedurige ontmoeting van rivieren en den <pb facs="f:28" n=28 id=pb28>aard van den grond, maar ook om reden van de aanzienlijke verliezen, welke de afmatting en de aanvallen der tetzavlieg onder de trekdieren teweegbrengen. Cambier bevond zich dus in de noodzakelijkheid zijne voorgangers na te volgen, en zijne toevlucht te nemen tot dragers voor het vervoer zijner bagage, zijner mondbehoeften en van zijn materiëel.
+
+<p>Maar, vooraleer aan de dragers te denken, die gehuurd worden langs de kust en op het laatste oogenblik, heeft het hoofd eener expeditie voor &apos;t binnenland van Afrika duizend andere voorbereidsels te maken, alvorens de stad Zanzibar te verlaten.
+
+<p>Ik blijf een poosje stil bij de inrichting eener karavaan van dit slag, eene gewichtige zaak, waarvan dikwijls het beter of slechter gelukken der onderneming afhangt.
+
+
+
+
+<pb facs="f:29" n=29 id=pb29>
+<div1 id=ch5 n=V>
+<head type=label>V</head>
+
+<head>Eene Afrikaansche Karavaan</head>
+
+
+<p>De eerste stap, dien men te doen heeft bij de aankomst te Zanzibar, is zich een lokaal aan te schaffen om de waren te bergen, die men voornemens is te koopen, en het <corr sic="materiël">materiëel</corr>, dat men uit Europa heeft meegebracht. Dit zijn: de wapens en munitiën; de natuurkundige tuigen; het linnen, de kleederen en schoeisels; de tenten en &apos;t beddegoed; de artsenijen; de conserven en &apos;t keukengerief; de werktuigen, boeken, papier en honderd verschillige artikels, kleine en groote, van de vischhaken en den tandenborstel af, tot het draaiorgel toe.
+
+<p>Wat de handelswaren betreft, die worden te Zanzibar gekocht. Zij zijn van verschillenden aard: wit en blauw katoen, <corr sic=koper-en>koper- en</corr> latoendraad, groote en kleine koralen met uitgekozen tinten, gekleurde weefsels, rood laken, kleederen, Arabische mantels of vesten, zwart of rood, met goud geborduurd, en <pb facs="f:30" n=30 id=pb30>ten laatste, wisselpoeder, hetwelk een monopool van den sultan is.
+
+<p>Al die waren dienen tot gangbare munt voor de betaling der dragers en soldaten, voor den aankoop der levensmiddelen, voor het voldoen van den <hi>hongo</hi> of doortochtrecht.
+
+<p>Eindelijk is het noodig, ook eenige kleine geschenken mee te nemen, zooals: messen, bellen, armbanden, spiegels, bekers, enz., die men blij zal wezen op sommige oogenblikken te bezitten, om de eene of andere groote moeilijkheid uit den weg te ruimen.
+
+<p>De aankoop dier belangrijke nietigheden is een werk, dat eene groote omzichtigheid en, op voorhand, de nauwkeurigste inlichtingen vereischt. Want, indien de mode in Europa afwisselt, doet zij dit ook in Afrika; nu is &apos;t het katoen, dat gevraagd wordt, dan is &apos;t het glaswerk. Eene karavaan trekt voorbij en betaalt hare aankoopen in stoffen; eene andere volgt haar en ziet zich verplicht, in hetzelfde district, met koralen te betalen. Wat deze laatste betreft, in deze streek worden de witte vurig verlangd, in gene de zwarte, of de roode, of de roze, met uitsluiting van alle andere. In 1858 is Burton gedwongen geweest, verscheidene duizenden reien kralen als nutteloos weg te werpen; niemand wilde er van, zelfs niet «als geschenk».
+
+<p>Eens de koopwaren aangekocht, zal de reiziger <pb facs="f:31" n=31 id=pb31>een tiental <corr sic=impakkers>inpakkers</corr> huren om de vrachten klaar te maken, die zullen verschillen van 25 tot 30 Kilogram per man! Elk pak moet genummerd worden en men zal nauwkeurig aanteekening nemen van zijnen inhoud.
+
+<p>Terwijl de lasten gemaakt worden, zorgvuldig in zakken van vlechtwerk gewikkeld, zal men het geleide van Zanzibariten aanwerven. Men zal zich vóor alles eenen kapitein aanschaffen, een krachtdadigen en verkleefden hoofdman, die zich doorgaans, tegen commissiegeld, zal gelasten met de soldaten of <hi>askaris</hi> te kiezen. Cambier nam er tachtig in dienst, waarover hij zeer tevreden was. Hoewel men hen soldaten heet, hebben die askaris niets gemeens met de militaire macht van &apos;t land; zij zijn gelast met de tucht der karavaan, en desnoods met hare verdediging tegen de aanvallen der struikroovers, die zekere districten onveilig maken. Zij worden met geweren gewapend (die van Gambier hadden comblains) en krijgen dien ten gevolge slechts eenen geringen last, meestendeels bestaande uit voorwerpen van dagelijksch gebruik.
+
+<p>Wanneer ik nu nog vermeld zal hebben de aanwerving van gidsen, tolken en knechts, de laatste bijzonder gelast met den dienst van kamp en keuken, dan zal ik, dunkt mij, het einde hebben bereikt van de opsomming der voorbereidende werkzaamheden, welke te Zanzibar zelf moeten verricht worden; en <pb facs="f:32" n=32 id=pb32>de reiziger zal gereed zijn om zich in te schepen, met personeel en bagage, op eenige <hi>daoes</hi>, om de zeeëngte over te steken en aan wal te stappen op Afrika&apos;s grond. Daar wacht hem een veel ingewikkelder en moeilijker werk: de werving van dragers. Ik ga er komen.
+
+<milestone unit=tb>
+
+<p>Cambier had gedaan met het inpakken zijner balen en het aannemen zijner soldaten, toen te Zanzibar aanlandde, het was op 28 April, de heer luitenant Wautier, weinige dagen nadien gevolgd van den heer dokter Dutrieux. De drij reizigers staken zonder verwijl naar het vasteland over.
+
+<p>De kust, tegenover Zanzibar, telt drij kleine dorpen, welke de voornaamste vertrekpunten zijn der karavanen met bestemming voor Oenyangembe en Tanganika. Het zijn: Sadani in &apos;t Noorden, Bagamayo in &apos;t midden en Kaole in &apos;t Zuiden. Gedurende de maanden Juni, Juli en Augustus vindt men er immer een aanzienlijk aantal inboorlingen, gereed om dienst te nemen als dragers of pagazis.
+
+<milestone unit=tb>
+
+<p>De groote hinderpaal tegen de snelheid der reizen in dat gedeelte van Afrika spruit voort uit den aard van &apos;t vervoer en de afwezigheid van muntspeciën. In plaats van een vijffrankstuk of eenen dollar, hebt gij vier meters stof noodig (een <hi>doti</hi>); een kralen halssnoer in stede van eenen stuiver; eenen rol <pb facs="f:33" n=33 id=pb33>latoendraad bij wijze van goudstuk; en om die lastige munt te vervoeren hebt gij noch rijtuig, noch kemel, noch paard, noch os. De <hi>tetza</hi>, de giftige vlieg van centraal Afrika, verspert den weg naar &apos;t binnenland voor al de trekdieren, en de kwestie van het temmen van den inlandschen olifant staat nog niet verder dan de voorbereidende studie. Blijft de neger. Het aanwerven eener bende van drie tot vierhonderd dragers is dus de laatste taak, welke de onderzoekingsreiziger te vervullen heeft, vooraleer zich in &apos;t binnenland te wagen. Het is verreweg de lastigste en ondankbaarste.
+
+<milestone unit=tb>
+
+<p>De eerste man, die gehuurd moet worden, is de <hi>kirangosi</hi>; het is een invloedrijk inboorling, gelast met het besturen van de marschen, en bestemd om de man van vertrouwen van den aanvoerder te worden. Deze zal hem moeten weten te paaien met kleine geschenken, tusschen vier oogen met hem den te volgen weg vaststellen, zoowel als den afstand voor elken dag, enz., en eindelijk, hem gedurig en tegen iedereen beschermen. In éen woord, gij moet trachten, den kirangosi altoos langs uwen kant te hebben in uwe geschillen met de dragers. Deze zullen u dan volgen gelijk schapen van Panurge.
+
+<p>De heeren Cambier, Wautier en Dutrieux kwamen dus te Sadani aan om er hunne karavaan van pagazis in te richten en er degene te ontvangen, <pb facs="f:34" n=34 id=pb34>welke M. Broyon&mdash;een Zwitsersch belastingpachter, door Cambier nabij Kiora ontmoet&mdash;beloofd had, naar de expeditie te sturen. Maar de dragers naar Bagamayo gegaan zijnde en dit dorp niet willende verlaten voor Sadani, waren de drie reizigers wel gedwongen, zich met heel hunnen trein naar Bagamayo te begeven.
+
+<p>Het aanwerven der pagazis vraagt een zoodanig geduld, dat het voor een nieuwen reiziger nutteloos is er aan te peinzen, dit zelf te verrichten. Hij zal zich dus moeten wenden, ofwel tot eenen Indiaan van de streek, wiens specialiteit het is, ofwel tot het opperhoofd van het geleide, die, tegen een te bedingen prijs, hem de noodige manschappen zal leveren. Men moet zorgen, deze te nemen tusschen de Oeanyamoeëzis, welke de boodschappers zijn van dit gedeelte van &apos;t vasteland. En bovendien moet men de echte uitkiezen, zachtaardig en gedwee, en geene Oeachetas bij voorbeeld, wier woelig karakter en boosaardigheid de expeditie weldra zou leeren ondervinden.
+
+<p>De luitenant Wautier bracht alleen de werving ten einde. De heeren Cambier en Dutrieux, beiden door de koorts aangetast, waren verplicht geweest de gastvrijheid te aanvaarden, hun op de hartelijkste wijze aangeboden door de Fransche missionarissen, te Bagamayo gevestigd.
+
+<p>Den 26<hi rend=sup>sten</hi> Juni was de karavaan, dank aan een <pb facs="f:35" n=35 id=pb35>contract, gesloten met den Indiaan Sewa, bepaald gevormd. Zij bestond uit 327 dragers, hetgeen met de 80 zanzibaritische soldaten en knechts eene macht van 407 man uitmaakte, die onmiddellijk gevoerd werden naar eene kleine plaats, Chamba Gonera genaamd, waar het gemakkelijker valt de tucht te handhaven, dan te Bagamayo zelf.
+
+
+
+
+<pb facs="f:36" n=36 id=pb36>
+<div1 id=ch6 n=VI>
+<head type=label>VI</head>
+
+<head>Het Vertrek en het Deserteeren der Dragers</head>
+
+
+<p>Op 28 Juni 1878, te 6 uren 45 minuten &apos;s morgens, verliet de eerste expeditie der Internationale Vereeniging het kamp van Chamba Gonera, onder het bevel van luitenant Wautier; de trompet werd geblazen en het blauwe vaandel met gouden ster ontrold vóor het hoofd der kolom. De heeren Cambier en Dutrieux konden slechts eenige dagen nadien Bagamayo verlaten en voegden zich, met de achterblijvers, den 11<hi rend=sup>den</hi> Juli bij de expeditie, welke haar kamp had opgeslagen tusschen de twee bergen Pongoué.
+
+<p>Al de reizigers vermelden de streek, gelegen aan den voet der kegels Pongoué, als een prachtig land, eene soort van park met bekoorlijke valleien en zachthellende hoogten, bekleed met een heerlijken wasdom.
+
+<p>Geplaatst op vijf dagreizen van de kust, op eene reeds verheven hoogte (313 meters boven den zeespiegel), <pb facs="f:37" n=37 id=pb37>op den rechteroever van den Voeami, welke tot daar bevaarbaar is, zou de bergvlakte van den Pongoué niet geschikt wezen tot het vestigen eener Europeesche standplaats? Dit moet de toekomst ons leeren.
+
+<milestone unit=tb>
+
+<p>De karavaan, onder het bevel van luitenant Cambier, hervatte haren tocht door de hoogten, welke de vallei van den Kingani scheiden van degene van den Voeami. Zij had den laatsten reisweg van Stanley gevolgd van aan de kust tot aan Rosaka, en, te beginnen van dit dorp, toog zij meer naar het noorden dan alle vorige expeditiën. Dit is, schijnt het, de beste baan om van Bagamayo naar Mpoeapoea te gaan: zij ontwijkt de moerasachtige vlakten der Makata.
+
+<p>Weldra zette men over den Voeami nabij het dorp Kingoué. Hij heeft te dier plaatse veertig meters breedte en de overtocht der karavaan vergde acht uren en half tijd.
+
+<p>De bergen van Ngoeroe en Oesagara vormen de eenige keten van belang, welke men langs den weg naar Tanganika ontmoet. Zij zijn in drie evenwijdige kammen verdeeld, die uitgestrekte lengtedalen van elkander scheiden. Meer dan elk ander is Oesagara het land der bloemen, en zijne vele vruchten hebben eenen eigenaardig zuren smaak, aangenaam en gezond te gelijker tijd.
+
+<pb facs="f:38" n=38 id=pb38>
+
+
+<figure id=p038>
+<head><hi rend=sc>Kapitein Cambier.</hi></head>
+</figure>
+
+
+<pb facs="f:39" n=39 id=pb39><p>Het is na vijf en twintig dagen gaans en in de nabijheid van het kleine dorp Mvomero, dat de tegenspoed met de dragers begon en deze in menigte wegliepen. Geene enkele Afrikaansche expeditie is vrij van deze plaag, maar die der Internationale Vereeniging had er meer van te lijden dan alle andere.
+
+<p>Een verschil van gevoelen tusschen den aanvoerder der expeditie en den kirangosi over den te volgen weg was de bron der oneenigheid. De kapitein wilde de baan door de vlakte nemen, gemakkelijker en aangenamer, terwijl de gids degene der bergen verlangde te volgen, die, korter zijnde, verkozen werd door de pagazis, welke voor heel de reis gehuurd waren en er dus alle belang bij hadden, snel te gaan.
+
+<p>Na een eerste geschil, gelukkiglijk geslecht, verwekte de eigenzinnigheid van den kirangosi een nieuwen twist, die weldra ontaardde in opstand en deserteering. Opgestookt door hun opperhoofd, begonnen de pagazis de pakken te verscheuren, welke de stoffen tot betaling bevatten, en weg te vluchten onder het aanheffen van een wild geschreeuw.
+
+<p>De heeren Cambier en Wautier, geholpen door eenige Zanzibariten, poogden te vergeefs door overtuigende woorden de vluchtelingen te weerhouden. Zij zorgden vooral, alle bloedvergieten te vermijden <pb facs="f:40" n=40 id=pb40>tusschen den troep muitende dragers en de getrouwe soldaten.
+
+<p>Bij den aanvang des strijds zou eene daad van brutaal gezag de tuchtelooze bende wellicht in bedwang gehouden hebben. Maar de zending, toevertrouwd aan de reizigers der internationale Vereeniging, veroorloofde deze niet, gebruik te maken van hunne wapens, tenzij wanneer hun leven zich wezenlijk in gevaar zou bevinden.
+
+<p>Het geval van Mvomero is den tocht van Cambier van den beginne af komen dwarsboomen, maar heeft de Vereeniging getoond, dat het hoofd harer eerste expeditie diep doordrongen was van de grootheid zijner zending. Zijn gedrag is onberispelijk geweest en heeft de goedkeuring verworven van het uitvoerend comiteit.
+
+<p>Gedurende heel dien noodlottigen dag (23 Juli) zetten de reizigers de vluchtelingen na en vingen onderhandelingen aan met eenige hunner; zij bekwamen hoegenaamd geenen uitslag. De nacht brak aan en kwam de vlucht van eenige muitelingen nog begunstigen.
+
+<p>&apos;s Anderendaags morgens kon de expeditie den droevigen toestand waarnemen, waarin het wegloopen van bijna al hare mannen haar gebracht had: meer dan driehonderd dragers hadden den opstand van den gids benuttigd om te deserteeren, een <corr sic=twintigtaal>twintigtal</corr> vrachten weefsels meenemende.
+
+<pb facs="f:41" n=41 id=pb41><p>Er viel geen tijd te verliezen om den in gevaar gebrachten toestand te herstellen. Hier ook nog toonde Cambier, door de snelheid zijner besluiten, op de hoogte zijner taak te zijn.
+
+<p>Er werd beslist, dat men ter plaats zooveel dragers mogelijk huren zou; dat een deel der bagage voorloopig te Mvomero zou blijven onder de hoede eeniger verkleefde mannen, terwijl een magazijn dadelijk zou ingericht worden in de Engelsche missie te Mpoeapoea, op negen uren gaans van Mvomero; dat de hoofdmacht der karavaan, onder de bevelen der heeren Wautier en Dutrieux, er de nieuwe dragers zou afwachten, die onmiddellijk aan de kust waren gevraagd; eindelijk, dat de aanvoerder der expeditie, met eene lichte karavaan, vooruit zou rukken tot aan Oerambo, vanwaar, indien het noodig was, hij dragers zou afzenden naar zijne kameraden.
+
+<p>Deze schikkingen werden uitgevoerd zonder nieuwe verwikkelingen en den 8<hi rend=sup>sten</hi> Augustus <corr sic="kwam en">kwamen</corr> de reizigers te Mpoeapoea aan.
+
+
+
+
+<pb facs="f:42" n=42 id=pb42>
+<div1 id=ch7 n=VII>
+<head type=label>VII</head>
+
+<head>Bij de Roovers Wagogo</head>
+
+
+<p>Mpoeapoea is eene plaats gelegen op de westelijke grens van Oesagara, op eene helling in vorm van terras, op halverhoogte der heuvels. Topografisch gesproken, is &apos;t het belangrijkste punt tusschen Bagamayo en Tabora. Al de wegen, voerende naar den Oegova, komen er samenloopen en al de karavanen, vertrekkende van de kust of er zich heen begevend, doen het dorp aan. De streek is gezond, beschut als zij is door de bergen tegen den noordoostenwind. De inboorlingen leggen er zich vooral op de veeteelt toe.
+
+<p>Het vlek Mpoeapoea is gewis geroepen tot eene groote toekomst, vooral als handelstatie. Sedert het begin van het jaar 1879 is het de zetel eener missie van de <hi lang=en>Church missionary Society</hi>, waarvan de drie leden, de heeren Least, Bopplestone en Baxter, eene merkwaardige werkzaamheid, volharding en practisch <pb facs="f:43" n=43 id=pb43>verstand aan den dag leggen. Zij hebben er voorloopige lokalen ingericht, huizen en magazijnen, gebouwd met eene soort van beton en gedekt met zeer dikke rieten daken. Op het oogenblik, dat de karavaan voorbijtoog, begonnen zij met den bouw van een steenen huis. In het naburige bosch is eene zagerij ingericht. Katoen, koffie en cacao groeien er zeer goed, zoowel als verscheidene Europeesche fruitboomen.
+
+<p>De Belgische reizigers werden hartelijk ontvangen door de leden der missie en rustten er eenige dagen uit.
+
+<milestone unit=tb>
+
+<p>Zooals het vastgesteld was geworden, werden de balen in het dorp nedergelegd, waar ook een klein kamp werd opgeslagen voor de zieken. De heeren Wautier en Dutrieux liepen ieder op beurt over en weder tusschen Mpoeapoea en Mvomero, en kapitein Cambier begaf zich op weg den 12<hi rend=sup>den</hi> Augustus, naar Oerambo, met een en tachtig man.
+
+<p>Mpoeapoea is in &apos;t westen van den Oegago gescheiden door eene woestijn, door Burton, Cameron en Stanley geheeten de Marenga-Mkali (bitter water) en door Cambier aangeduid met den naam van Porry van Tchoenioe (<hi>Porry</hi> wil zeggen: woestijn zonder water, en <hi>Tchoenioe</hi> is de naam van een klein dorp).
+
+<p>Het is eene verzengde heide, waarvan de doortocht pijnlijk is voor al de karavanen. Het is eene vlakke <pb facs="f:44" n=44 id=pb44>streek, hier kaal, daar bedekt met dichte en stekelige struiken, waar het pad midden doorslingert; het water is er zeldzaam, bitter en salpeterachtig.
+
+<p>De karavanen maken er tirikeza. Men noemt <hi>tirikeza</hi> den versnelden marsch over verlaten en waterlooze vlakten. In de taal der kust is <hi>koutirikeza</hi> de onbepaalde wijs van een onovergankelijk werkwoord, waarvan de zin is: marscheeren na den middag; de Araben hebben er een naamwoord van gemaakt, en dit drukt voor de luie pagazis de zwaarste beproeving uit, welke men hun kan opleggen.
+
+<p>De tirikeza wordt derwijze geschikt, dat de karavaan, in den namiddag opbrekend van eene plaats, waar water is, den marsch voortzettend lang na het vallen van den avond en zoo vroeg verder trekkende mogelijk, niet langer dan twintig uren zij zonder drinken te vinden, in stede van dertig, gelijk het zou gebeuren, indien men &apos;s morgens vertrok.
+
+<p>De Marenga-Mkali kan beschouwd worden als het begin van de hooge middenvlakte. Cambier gebruikte achttien uren versnelden marsch om ze over te steken, elk pagazi droeg zijn rantsoen levensmiddelen en zijnen voorraad water.
+
+<p>&apos;s Anderdaags trad de karavaan in Oegogo.
+
+<milestone unit=tb>
+
+<p>Oegogo heeft eene droevige vermaardheid verworven <pb facs="f:45" n=45 id=pb45>door de plagerijen van allen aard, welke zijne talrijke sultans, dwingelanden op kleinen voet, de karavanen, die het land doorreizen, doen ondergaan. Van aan de kust tot hier stellen de opperhoofden zich tevreden met kleine geschenken, die de reiziger hun wel wil aanbieden in ruiling voor de levensmiddelen, welke zij hem leveren. In Oegogo is het geene gift meer, die zij ontvangen, maar eene schatting, welke zij eischen. De doortochtrechten of <hi>hongos</hi> zijn er verpletterend, en de lange twisten, welke hunne vaststelling doet ontstaan, verslinden schromelijk veel tijd en vragen een geduld, dat alle beschrijving te boven gaat.
+
+<p>Ziehier hoe gewoonlijk de verhandeling van het hongo gebeurt. In het dorp aankomende, moet men vóor alles beginnen, met eenige gebruikelijke geschenken te zenden aan den sultan, zijne vrouw en zijnen opzichter. Dat de reiziger zich wel wachte, er te veel of te schoone te geven, want dan zullen zijne rijkdommen hoog aangeslagen worden, en men zal hem naar evenredigheid belasten.
+
+<p>De gezanten zullen terugkeeren en hem de eischen van het opperhoofd doen kennen, eischen, welke immer de juiste maat zullen overschrijden: vandaar woordenwisselingen, geschillen, twisten. Het is dikwijls maar na twee of drij dagen van omslachtig gekijf, dat de zaak beklonken wordt, en de reiziger zijnen weg kan voortzetten, verlicht met eenige <pb facs="f:46" n=46 id=pb46>pakken stof en eenige kleederen. Al de hel geverfde stoffen van Cambier verdwenen bij dien doortocht van Oegogo, welke aan zijne kleine karavaan meer dan vijftienhonderd frank kostte.
+
+<p>De Wagogo&apos;s vormen eene machtige natie, befaamd wegens hare dapperheid in den oorlog. Wat hunne andere hoedanigsheden betreft, die zijn geenszins beminnelijk: het zijn schreeuwers, vechters, dieven; zij zijn niet te betrouwen bij het koopen en beoefenen volstrekt geene Schotsche gastvrijheid; alles bij hen moet betaald worden, zelfs het water. Voeg daarbij eene luidruchtige en onbescheiden nieuwsgierigheid en men zal een denkbeeld hebben van de beminnelijkheid der Wagogo&apos;s. Ook landen de karavanen bij hen nooit aan dan met een zekeren schrik, en de aanvoerders der pagazis en askaris bevelen hunne mannen op voorhand de grootste voorzichtigheid aan.
+
+<p>Ziehier, volgens Burton, de schilderachtige aanspraak van den kapitein zijner askaris: «Maneno! Maneno! (Luistert, luistert) o Blanken, hoor mij aan! en gij, kinderen van den Saïd, gij, zonen van Ramji, gij, sombere afstammelingers der duisternissen, let op mijne woorden. De reis geraakt aan Oegogo. Opgepast, opgepast! (Hevige gebaren.) Gij kent de mannen niet, die er wonen. Zij zijn gevloekt, driemaal gevloekt! (De redenaar stampt op den grond met den voet.) Spreekt niet met die heidenen <pb facs="f:47" n=47 id=pb47>van &apos;t binnenland, treedt niet in hunne hutten; drijft geenen handel met hen; toont hun geene stoffen, noch armbanden, noch glasparelen. (Aangroeiend rumoer.) Eet niet, drinkt niet met hen; liefkoost hunne vrouwen niet. (Dolzinnig geschreeuw). Kirangozi, gij, die hen leidt, houd uwe zonen tegen! Veroorloof niet, dat zij in de dorpen omzwerven, dat zij zout koopen buiten het kamp, levensmiddelen rooven, zich bedrinken in bier of zich nederzetten bij de putten!»
+
+<milestone unit=tb>
+
+<p>Het laatste dorp van Oegogo is Mgondoeko. Daar voorzien de pagazis zich van mondbehoeften voor tien dagen en bereiden zich om de bittere onaangenaamheden van den Mgonda-Mkali (Brandende vlakte) te trotseeren.
+
+<p>Die naam werd haar gegeven vóor veertig, vijftig jaar, door de karavanen, welke twaalf groote marschen en verscheidene tirikezas gebruikten om haar te overschrijden. In 1859 kondigde Burton aan, dat de slechte faam, welke zij toen genoot, weldra slechts in de herinnering meer zou bestaan, want elken dag deden fakkel en bijl hare grootte inkrimpen en verminderden de bezwaren van haren overtocht. In 1871 trokken de pagazis van Stanley de Mgonda-Mkali door al zingende en kreten van vreugde slakend, op deze vlakte, welke hunne voorgangers gevloekt hadden. Zij vonden er den <pb facs="f:48" n=48 id=pb48>overvloed, en hun aanvoerder kon schrijven, dat deze provincie in vruchtbaarheid niets toegaf aan de valleien der kuststreek. Daarvoor was het voldoende geweest, dat een vreedzaam en arbeidlievend ras zich vestigde in deze verzengde velden.
+
+<p>Op zijne beurt heeft Cameron in 1872 gezegd, dat, alhoewel er nog eenige lastige gedeelten zijn, de verandering volledig is, en dat de brandende woestijn, eertijds door de karavanen gevreesd, zonder schrik wordt aangevat en zonder veel moeite doorschreden.
+
+<p>Welke aanmoediging in die feiten voor hen, die volharden! Geen ondankbare grond en een vroege oogst. Eere dus aan de werkers, aan hen, welke blijdschap verwekken, waar droefheid heerschte, den overvloed in de plaats van den hongersnood, en die, de aarde genezende van hare kwalen&mdash;de woestijn is eene melaatschheid&mdash;hare krachten in evenwicht brengen en rustige dagen voorbereiden, gunstige jaargetijden en zekere oogsten.
+
+<p>Ongelukkiglijk heeft de oorlog, door Mirambo, den vermaarden negerkoning van Oenyamoeësi, gedurende vijf jaar tegen de Araben gevoerd, in de Mgonda-Mkali de dorheid en verlatenheid teruggebracht, en, in stede van de rijkdommen, waar Stanley en Cameron van spreken, ontmoette Cambier niet anders meer dan puinhoopen.
+
+<p>De overtocht van de Mgonda-Mkali vroeg hem <pb facs="f:49" n=49 id=pb49>twaalf dagen (van 16 tot 28 September), binnen welken tijd de expeditie van den morgen tot den avond doorstapte, soms een gedeelte van den nacht zelfs, wanneer de maan den weg verlichtte.
+
+
+
+
+<pb facs="f:50" n=50 id=pb50>
+<div1 id=ch8 n=VIII>
+<head type=label>VIII</head>
+
+<head>Mirambo, de zwarte Bonapart</head>
+
+
+<p>Den 18<hi rend=sup>den</hi> September kwam de expeditie te Ouyoui, eerste stad <corr sic=toohoorende>toehoorende</corr> aan Mirambo. Hare aankomst werd er begroet door luide vreugdekreten vanwege de inwoners.
+
+<p>Cambier ontving er het bezoek der vrouwen, welke beurtelings dansen kwamen uitvoeren vóor zijne deur en den lof bezingen van den vreemdeling. Dit gebruik is algemeen in al de dorpen van Oenyamoeësi, en het is de gewoonte, te dezer gelegenheid eene uitdeeling van parels te doen.
+
+<p>Den 23<hi rend=sup>sten</hi> liet Cambier, volgens de regels der plaatselijke beschaving, twee zijner mannen Mirambo van zijne aankomst <corr sic=verwittingen>verwittigen</corr>, en den tweeden volgenden dag, toen hij omtrent den middag de verblijfplaats van den Moeami (titel des <pb facs="f:51" n=51 id=pb51>sultans) naderde, zag hij Mirambo op een honderdtal passen van zijn <hi>tembe</hi> (woning) hem te gemoet komen.
+
+<p>De sultan van Oenyamoeësi is een man van ongeveer vijftig jaar, rijzig van gestalte, niet diklijvig, met een schrander uiterlijk. Hij laat niet gemakkelijk zijne indrukken waarnemen en vestigt nooit zijnen blik op zijnen medespreker.
+
+<p>Het kan niet geloochend worden, dat zijn verstand de middelmaat van dat der negers overtreft. Hij bezit vooral eene zeldzame hoedanigheid, die hem eene onbetwistbare meerderheid geeft over zijne onderdanen en mededingers: het is van eene beslissing te kunnen nemen en vervolgens met snelheid te handelen, vaak zelfs buiten wete van hen, die hij voor de uitvoering zijner plannen gebruikt. Die vlugheid van besluit verzekert hem in zijne oorlogen tegen zijne buren het voordeel van zich altoos op het onverwachts te vertoonen.
+
+<p>Uit vrees hem elk oogenblik aan het hoofd zijner benden te zien aanrukken, verkiezen de sultans der ommelanden de erkenning zijner opperheerschappij en betalen hem schatting. Het is aldus, dat hij zich sedert lang den bijnaam heeft kunnen toeëigenen van «<hi>Mirambo</hi>», welke beteekent: «degene, vóor wiens voeten men geschenken nederlegt.»
+
+<p>Eenvoudig inlandsch opperhoofdje van het district van den Oehioea, heeft hij zich aldus door zijnen <pb facs="f:52" n=52 id=pb52>moed en zijne woelige krachtdadigheid eenen naam verworven, even bekend als die van Mtesa, den machtigen koning van Oeganda, eenen naam, dagelijks uitgesproken van Nyangoué tot Zanzibar, en die tot onderwerp dient voor de zangen der inlandsche barden.
+
+<milestone unit=tb>
+
+<p>Mirambo en Cambier, elkander naderend, wisselden eenen <hi>salam</hi> (goedendag) en een handdruk; daarna begaven zij zich naar de hut, welke het zwarte opperhoofd voor zijn blanken gast had doen gereedmaken. De Moeami deed den reiziger ondervragen door een Arabischen tolk over het doel zijner reis, luisterde aandachtig naar zijne antwoorden en wilde weten, of hij van dezelfde nationaliteit was als de Engelschen. Hij stond hem al de dragers toe, welke hij verlangde, maar vroeg vooreerst de <hi>uitwisseling van bloed</hi>.
+
+<p>Dit is eene plechtigheid, welke hoog aangeschreven staat in centraal Afrika. Zij greep plaats den volgenden dag in de woning van den sultan.
+
+<p>Een der soldaten van Moeami maakte eene lichte insnede in de borst van den kapitein, terwijl een der Zanzibariten van dezen dezelfde bewerking deed bij Mirambo.
+
+<p>De enkele druppels bloed werden opgevangen op twee versche bladeren en onder een weinig boter gekneed. «Indien het eenen uwer gebeurt, zegde <pb facs="f:53" n=53 id=pb53>daarop een der helpers, te kort te komen aan de heilige broederlijkheid, dan zal hij verscheurd worden door leeuwen, vergiftigd door de slang, zijn voedsel zal bitter zijn, zijne vrienden zullen hem verlaten, zijn geweer zal stukspringen in zijne hand; kortom, alwat slecht is zal hem vervolgen totterdood!»
+
+<p>Waarna de twee opperhoofden elkander wederzijds de gewijde bladeren boven het hoofd verscheurden. Zij waren <hi>broeders</hi> en elke daad van vijandschap tusschen hen moest noodlottig voor gevolg hebben den dood van den meineedige. Zóó wil het volksgeloof dit.
+
+<p>Stanley, die insgelijks de broeder van Mirambo is, is teruggekomen op het eerste oordeel, hetwelk hij over hem had uitgebracht. De sultan, dien hij in 1871 bevochten had als bondgenoot der Araben van Tabora, nam hem bepaald voor zich in in 1875, toen hij hem ontmoette in Oerambo.
+
+<p>«Hij heeft, zegt hij, elk denkbeeld omgeworpen, dat ik had opgevat over den gevreesden man, dien ik brandmerkte als bandiet». Wat er van zij, heden nog weet men niet zeker, of Mirambo een te wenschen bondgenoot is of een te vreezen tegenstrever. In alle geval, de nabuurschap der Europeesche standplaatsen kan niet anders dan een heilzamen invloed uitoefenen op den machtigen potentaat van Oenyamoeësi.
+
+<pb facs="f:54" n=54 id=pb54><p>De tegenwoordige hoofdstad van den Moeami ligt ten noordwesten van Tabora. Het is een groot vierkant van tweehonderd meters zijde, met dikke muren omgeven, waarlangs een honderdtal hutten geschaard zijn, bewoond door de voornamen. Die stad werd door haren stichter «Thierra-Magazy» geheeten. De Engelsche missionarissen, die er zich pas nedergezet hebben, noemen haar ook in hunne brieven «koei-koeroe», wat «hoofdstad» beteekent.
+
+<p>Zij telt eene bevolking van eenige duizenden inwoners, verspreid over verscheidene groote dorpen, gelegen in de omstreken. Het leger, dat het groot opperhoofd er in oorlogstijd kan bijeenbrengen, bereikt ongeveer 3000 man, naar men zegt. Al de sultans van Oenyamoeësi leveren hem een contingent, en degenen, die niet willen of niet kunnen deelnemen aan den veldtocht, zenden hem, bij zijnen terugkeer, eene schatting in ivoor of slaven.
+
+<p>Cambier bracht drie maanden in de hoofdstad van Mirambo door met dragers te huren en de hoofdmacht der expeditie af te wachten. Koorts en roodeloop, die hem gespaard hadden onder de reis, tastten hem herhaaldelijk aan tijdens zijn verblijf te Thierra-Magazy. Niettemin schokte geene enkele dezer ongesteldheden ernstig zijne gezondheid, en de genezing volgde immer snel en volledig.
+
+<p>Terwijl de aanvoerder van de expeditie bij Mirambo <pb facs="f:55" n=55 id=pb55>uitrust, keeren wij op onze stappen terug, naar Mpoeapoea, waar wij de heeren Dutrieux en Wautier met de bagage en het materiëel gelaten hebben.
+
+
+
+
+<pb facs="f:56" n=56 id=pb56>
+<div1 id=ch9 n=IX>
+<head type=label>IX</head>
+
+<head>De Dood van Wautier</head>
+
+
+<p>Dank aan de krachtdadigheid van M. Greffulbe, agent van het huis Roux, de Fraissinet en C<hi rend=sup>ie</hi> te Zanzibar, dank ook aan de vriendelijke tusschenkomst van den E. V. Stefanus, opperste van het Fransche huis van Bagamayo, hadden nieuwe dragers, in voldoende getal, de karavaan versterkt te Mpoeapoea, en den 15<hi rend=sup>den</hi> October begaf deze zich weder op marsch, onder het bevel van den luitenant Wautier.
+
+<p>Het oproer der pagazis te Mvomero had dus aan de eerste expeditie niet alleen eene nogal aanzienlijke som gelds gekost, maar ook een verlies van tijd van twee maanden en half. Dit was gelukkiglijk niets in vergelijking met de levendige onrust, in België ontstaan ten gevolge van een valsch gerucht, door de dagbladen verspreid, en volgens hetwelk de Belgische expeditie, aangevallen door een inlandschen stam, overmand en uitgeroeid was geworden.
+
+<pb facs="f:57" n=57 id=pb57><p>Het doortrekken van Oegogo gebeurde langzaam, ter oorzake van de zich immer vernieuwende geschillen over den hongo; dit vroeg zes weken, maar bood geen enkel merkwaardig voorval aan.
+
+<p>Bij Kironda, niet ver van het dorp Simbo, voegde zich de expeditie bij eene karavaan, welke M. Broyon naar de Engelsche missionarissen van Oejiji geleidde, en die zich gereedmaakte om de Mgonda-Mkali over te steken.
+
+<milestone unit=tb>
+
+<p>Hier komt de pijnlijke episode van den dood van M. Penrose, Engelsch ingenieur verbonden aan de <hi>London Missionary Society</hi>. Die ramp is nog niet heelemaal opgehelderd, en ik wil er een oogenblik bij stilblijven. Ik deel, volgens het verslag van den heer dokter Dutrieux, den gang der gebeurtenissen beknopt mede.
+
+<p>Benden plunderaars, bijna allen behoorende aan Nyoengoe, machtig opperhoofd van het zuiden van Oenymaoeëi, waarbij zich <hi>roegas-roegas</hi> (struikroovers) gevoegd hadden, legerden in de vlakte ten westen van Oegogo en schenen van plan, den weg te versperren aan de karavanen, die zich naar Tabora begaven. Zij hadden reeds, schijnt het, die van den abt Debaize aangevallen, den Franschen onderzoekingsreiziger, die eenigen tijd te voren daar voorbij was getrokken.
+
+<p>Daar daagde de karavaan op, geleid door M. Penrose, <pb facs="f:58" n=58 id=pb58>en welke die van luitenant Wautier eenige dagen voorafging. Tegengehouden door de gewapende benden op de boorden van het kleine meer Tchaïa, was zij verplicht te strijden. Hare dragers liepen weg, al hare koopwaren bleven in de handen der aanvallers en de ongelukkige Penrose werd in &apos;t gevecht gedood.
+
+<p>De toestand onzer reizigers was dus bedenkelijk. Gelukkiglijk verwittigd door de inboorlingen, de vluchtelingen en het geweervuur, dat zij in de verte gehoord hadden, omtrent hetgeen juist gebeurd was op den weg zelf, dien zij volgden, namen de heeren Wautier, Dutrieux, Broyon en een Engelsche missionaris, M. Dodsghun, die dezen laatste vergezelde, in tijds hunne maatregelen om elke botsing te vermijden met de mannen van Nyoengoe, door hunne zegepraal ongetwijfeld verhit.
+
+<p>Zelfs met de zekerheid der overwinning, was &apos;t nog beter terug te wijken dan eene moordende worsteling aan te gaan met arme wilden, dikwijls onbewust van hunne daden. Vergoten bloed roept bloed; gramschap, haat en wraak zijn verschrikkelijke vijanden voor wie beschaven wil. Hij alleen begrijpt zijne rol&mdash;zijne groote en edele rol&mdash;die zichzelven zegt, dat het leven van den laatste der zwarten zoo heilig is als dat van den eerste der blanken; dat het door geduld, het voorbeeld, zachtheid, goede middelen, en niet door geweld en <pb facs="f:59" n=59 id=pb59>dwang is, dat men meester zal worden over die onterfde, wantrouwe en vreesachtige <corr sic=volkstammen>volksstammen</corr>.
+
+<p>De vier Europeanen sloegen raad, en op voorstel van M. Broyon werd er beslist, dat de karavaan Hittoera zou bereiken langs een grooten omweg naar het noorden, dwars door Oetatoeroe. De tirikesa werd bevolen, en de expeditie, de baan van &apos;t westen verlatend, wendde zich recht naar &apos;t noorden, door een dicht woud. Een plasregen maakte haren marsch moeilijk tot aan het dorp Hekoengoe.
+
+<p>Daar wachtte haar een wreed ongeluk.
+
+<p>In dien kringmarsch rond het meer Tchaïa kwam de dood voor den derden keer de expeditie der Vereeniging bezoeken. Den 7<hi rend=sup>den</hi> December werd luitenant Wautier door eenen afgang aangetast, die weldra in roodeloop ontaardde. Het was de derde maal sedert zijn verblijf in Afrika, dat de dappere officier door deze ziekte gekweld werd; telkens was zij geweken voor eene geneeskundige behandeling van eenige dagen. Ongelukkiglijk meende de kranke, zich dezen keer te kunnen ontslaan van het onderhouden van den strengen leefregel, door den aard der kwaal opgelegd. Ondanks eene zekere beterschap gedurende eenen dag of twee, nam de verzwakking weldra de overhand, en in den morgen van den 19<hi rend=sup>den</hi> gaf Wautier den geest, onder het stamelen van zijn laatste woord.
+
+<p>Dokter Dutrieux verwierf van het opperhoofd <pb facs="f:60" n=60 id=pb60>van Hekoengoe den afstand van een terrein, waarover zich het lommer van eenen baobab uitstrekt. De kuil werd gedolven aan den voet van den reuzenboom en de begrafenis had plaats in tegenwoordigheid van heel de expeditie. Een tas steenen werd boven het graf opgehoopt; een kruis en de naamcijfers van den overledene werden in den boom gegrift, en de sultan beloofde, het monument, opgericht tot aandenken van onzen ongelukkigen landgenoot, te doen eerbiedigen, en er de plaats van aan te wijzen aan de reizigers, die hier zouden voorbijkomen.
+
+<p>Wautier is de eerste Belgische reiziger, gestorven in &apos;t hart van &apos;t geheimzinnig werelddeel. Nog voor eenige jaren is Itatoeroe, waar hij rust, overgeleverd aan de vergetelheid, maar in eene niet ver verwijderde toekomst zal de beschaving er haar licht doen doordringen. Een weldoende straal zal dan tot in Hekoengoe schijnen, op den wilden baobab, aan wiens voet de soldaat-reiziger begraven ligt. De groote zaak, waarvoor hij grootmoedig zijn leven heeft ten beste gegeven, zal hem godvruchtig een gedenkteeken oprichten, zijner waardig, en beter dan heden zal men de vrucht en de grootheid van het offer beseffen.
+
+<p>Den 29<hi rend=sup>sten</hi> December bereikte de heer Dutrieux Hittoera met zijne 350 man, wier verbintenis voor &apos;t meerendeel bij dit dorp eindigde. Hij wachtte er op nieuws van kapitein Cambier, die, van zijne <pb facs="f:61" n=61 id=pb61>aankomst verwittigd, niet aarzelde hem tegen te gaan, en de ontmoeting der twee reizigers, sedert bijna vijf maanden gescheiden, greep plaats den zesden Januari 1879 in het dorp Oeyoeï, gelegen nabij Tabora, een weinig ten noorden.
+
+
+
+
+<pb facs="f:62" n=62 id=pb62>
+<div1 id=ch10 n=X>
+<head type=label>X</head>
+
+<head>Tabora</head>
+
+
+<p>Die eerste en moeilijke reis had, in haar geheel, aanzienlijk veel tijd gevraagd (meer dan zes maanden), onvermijdelijk gevolg van &apos;t deserteeren der dragers te Mvomero. Bovendien had zij het leven gekost aan een der reizigers, en dus met een graf te meer afgeteekend dezen weg naar Tanganika, waar reeds rusten de jonge Franschman Maizan; Moffat en Dillon, de gezellen van Cameron; de ingenieur Penrose, evenals Farquhar en Shaw, de twee blanke knechts van Stanley op zoek naar Livingstone.
+
+<p>Maar de toestand, een oogenblik wanhopig, was gelukkiglijk gered geworden, dank aan de krachtdadigheid van den aanvoerder der expeditie. Wat den voorraad in koopwaren betrof, die was voldoende voor nog meer dan een jaar.
+
+<milestone unit=tb>
+
+<p>Oenyanyembe, waar de reizigers zich bevonden, <pb facs="f:63" n=63 id=pb63>is eene groote en rijke provincie, die eenigszins eene afhankelijkheid van &apos;t sultanaat van Zanzibar vormt. De gouverneur wordt er door benoemd. De hoofdstad is Tabora, de plaats, waar allen, die van Zanzibar naar Tanganika of Victoria-Nyanza gaan, zich van voorraad komen voorzien. De vestiging der Arabische kooplieden in deze streek dagteekent slechts van 1852. Tabora is tegenwoordig de belangrijkste van al de standplaatsen, welke de handelaars van Zanzibar in &apos;t hart van Afrika bezitten.
+
+<p>Toen Stanley er in 1870 doortrok, bevatte de kolonie meer dan duizend woningen en telde reeds ongeveer 5000 zielen. Sedert een jaar heeft de internationale Vereeniging er een stapelhuis van koopwaren, bestuurd door den heer Becker.
+
+<p>Onze landgenoot zal weldra het gezelschap krijgen van eenen Franschman, M. Sergère, die lang Zanzibar bewoond heeft en zich gereedmaakt om in Tabora een handelskantoor op te richten.
+
+<p>In Oenyanyembe zijn de dorpen talrijk en de ontginning is er aanzienlijk; de grond, met zorg bewerkt, brengt in overvloed rijst, sorgho, maïs, manioc en zoete wortelknol voort; de Araben telen er koren en ajuin; zij hebben er ook de meeste fruitboomen van de kust ingevoerd. Men treft er eveneens den katoenboom aan.
+
+
+<figure id=p064>
+<head>De woestijn tijdens de Masika.</head>
+</figure>
+
+
+<p>Dank bovendien aan den vooruitgang der ontginning <pb facs="f:65" n=65 id=pb65>en bewerking, en aan de verwijdering der wilde dieren, heeft de tetzavlieg Oenyanyembe verlaten, en de kudden ossen en schapen zijn er nu talrijk.
+
+<milestone unit=tb>
+
+<p>Van &apos;t begin van Januari 1879 tot het begin van Mei verbleef kapitein Cambier te Tabora, verplicht als hij was, het regenseizoen te laten voorbijgaan, alvorens zijnen tocht voort te zetten. De <hi>mazika</hi> maakt zoo goed als onbruikbaar de moerassige streken, welke zich langs het westen uitstrekken en gedraineerd worden door ontelbare rivieren, alsdan overstroomd, afvloeiende naar het meer Tanganika.
+
+<p>Toen de regens begonnen op te houden, op &apos;t einde van April, dacht de reiziger er aan, nieuwe dragers in dienst te nemen, om het materiëel zijner standplaats tot aan het meer te laten vervoeren, en dan op te breken.
+
+<p>Hij vertrok alleen: dokter Dutrieux had het besluit genomen, den dienst der Afrikaansche Vereeniging te verlaten en naar Europa terug te keeren.
+
+<p>Van de zes reizigers, die aan den tocht hadden deelgenomen, bleef er dus éen op zijnen post: drij waren onderweg gevallen als slachtoffers hunner toewijding; twee hadden zich uit de onderneming teruggetrokken om verschillende redenen.
+
+<pb facs="f:66" n=66 id=pb66><p>Eene zware taak rustte op den reiziger, voortaan overgelaten aan zijne eigene krachten. Hij ging bewijzen, dat zijne voorzichtigheid, wilskracht en moed tegen haar waren opgewassen.
+
+
+
+
+<pb facs="f:67" n=67 id=pb67>
+<div1 id=ch11 n=XI>
+<head type=label>XI</head>
+
+<head>Laatste Baangedeelte</head>
+
+
+<p>Kapitein Cambier verliet Tabora den 7<hi rend=sup>den</hi> Mei, met omtrent 175 man, nagenoeg den weg volgende, dien Stanley in 1871 had genomen tijdens zijne reis op zoek naar Livingstone.
+
+<p>De reiziger had uit Brussel inlichtingen ontvangen, welke hem als bijzonder gunstig voor de vestiging eener Europeesche standplaats het kleine dorp Karema aanwezen, gelegen op den oostelijken oever van het meer, ten zuiden van Oejiji.
+
+<p>Hij sloeg dus den weg van &apos;t zuiden in, langs Simba, minder kostelijk dan degene van &apos;t westen langs Kaoeëlee, waar de hongo&apos;s buitensporig zijn.
+
+<p>Het verslag des reizigers, hetwelk de bijzonderheden meedeelt over zijnen langen en moeilijken marsch tot aan Tanganika, is niet anders dan eene lange aaneenschakeling van geschillen, veroorzaakt door den kwaden wil, de grillen en het wegloopen der dragers. De neger is bepaald de slechtste der <pb facs="f:68" n=68 id=pb68>lastdieren, en het is meer dan tijd om aan zijne vervanging te denken en hem enkel voor de ontginningen te gebruiken<corr sic=",">.</corr>
+
+<p>Simba, waar de reiziger den 17<hi rend=sup>den</hi> Juli aankwam, is een groot dorp van de Oesavira, met 2 a 3000 zielen. Cambier werd er door den sultan vriendelijk<corr sic="-"> </corr>ontvangen en ontmoette er een zekeren Matumala, opperhoofd eener bende van 300 olifantenjagers.
+
+<p>Matumala, die vroeger moeilijkheden met Makiaka, sultan van Karema, gehad had, was gedurende drie maanden tegen hem in strijd geweest, had hem overwonnen en gedood en hem tot opvolger Kangoa gegeven, verbannen lid der «oude regeerende familie».
+
+<p>Wijl Matumala, zooals men ziet, de ware vorst van Karema was, verzekerde Cambier zich van zijne vriendschap door eenige geschenken, en, sterk door deze bescherming, stelde hij zich op weg naar het meer. Het weinig voorzichtig achtende, zich naar Karema te begeven met al zijne koopwaren, en de kosten zijner karavaan willende verminderen, ontsloeg Cambier onmiddellijk een gedeelte zijner dragers. Hij was ook gelukkig, zich verlost te gevoelen van de verschrikkelijke nachtmerrie, die men het bevel over eenen troep pagazis heet.
+
+<p>Na te Simba het grootste deel zijner bagage achtergelaten te hebben, en enkel door tachtig man vergezeld, brak Cambier den 29<hi rend=sup>sten</hi> Juli op, om de <pb facs="f:69" n=69 id=pb69>ligging te gaan verkennen zijner toekomstige standplaats.
+
+<p>Den 12<hi rend=sup>den</hi> Augustus kwam hij aan den eindpaal zijner lange en moeilijke reis. Aan zijne voeten, boven de honderdvijftig hutten van &apos;t dorp Karema, strekte zich de onmetelijke waterplas van Tanganika uit, zoover het oog reikte.
+
+<p>Cambier werd goed ontvangen door Kangoa, den ellendigen kleinen souverein van tweehonderd inwoners, aan wien men den grootschen titel van sultan van Karema verleent. Hij mocht zich gelukkig achten, van hem den afstand te verwerven van een terrein van bij de duizend hectaren, hetwelk hij uitkoos langs den zoom van &apos;t meer; hij sloot eene overeenkomst met Kangoa voor het optimmeren van eenige loodsen, bestemd voor de koopwaren, die achter waren gebleven, en na een verblijf van zes dagen, keerde hij naar Simba terug.
+
+<p>Op 15 September kwam hij voor goed te Karema terug met het overschot van zijn materieel, en reeds den 17<hi rend=sup>den</hi> legde hij de eerste grondslagen van de wetenschappelijke en gastvrije standplaats, welke het zijne zending was te stichten.
+
+
+
+
+<pb facs="f:70" n=70 id=pb70>
+<div1 id=ch12 n=XII>
+<head type=label>XII</head>
+
+<head>De eerste onderzoekers van het Tanganikameer</head>
+
+
+<p>Wanneer, na de heuglijke zeetochten van Diëgo Cam, Bartholomeus Diaz, Vasco de Gama, Cabral, enz. de Portugeezen zich in de <hi rend=sc>XVI</hi><hi rend=sup>e</hi> eeuw op eenige punten van het Afrikaansche kustland vestigden, te Sofala, te Mozambika, te Mombas, te Loando, drongen min of meer bepaalde inlichtingen allengs in hunne kantoren door over het inwendige van de <hi>Terra incognita</hi>.
+
+<p>Die inlichtingen waren te danken, eensdeels aan de inboorlingen, wonende langsheen de zee, anderszijds aan de Arabische kooplieden, gevestigd op de oostkust en die, ter wille van hunnen handel, hier en daar nogal ver in &apos;t binnenland doorgedrongen waren.
+
+<p>Iedereen beseft, hoeveel dwalingen zulke aanduidingen noodwendig moesten doen ontstaan, aangebracht door onwetende menschen, dikwijls slecht <pb facs="f:71" n=71 id=pb71>gegeven, dikwijler nog slecht begrepen, en vervolgens van mond tot mond gaande, om eindelijk in Europa ter kennis van geschiedschrijvers en aardrijkskundigen te komen.
+
+<p>Nochtans, uit alles te zamen trad de waarheid aan &apos;t licht, hoewel door een dikken mist, in dezen zin, dat de algemeene waterbeschrijving van &apos;t nieuwe land vermoed werd. Men begreep dadelijk, dat de zuidelijke helft van Afrika niet, gelijk het grootste gedeelte der noordelijke helft van dit werelddeel, eene aaneenschakeling van min of meer uitgestrekte zandwoestijnen was, maar eene moerasachtige streek, geheel doorzaaid met meren, zoo groot als zeeën, doorgroefd met talrijke rivieren, en van &apos;t éen eind naar &apos;t ander doorsneden van machtige stroomen, zooals de Nijl, de Congo en de Zambezia.
+
+<p>De enkele pogingen tot verkenning, langsheen de kusten gedaan door missionarissen, soldaten, handelaars of goudzoekers, zonder iets bijzonder nieuw aan te brengen, bevestigden evenwel de reeds verkregen inlichtingen, doch niet zonder den wonderbaren kant dezer ontdekkingen naar den geest des tijds te overdrijven.
+
+<p>Aldus werden de kleine bergen Lupata herschapen in <hi>Ruggegraat der Wereld</hi>, de snelle stroomingen der zeestreek in reusachtige watervallen, het goudkwarts, door eenige rivieren gekruid, in schatrijke goud- en zilvermijnen, de ellendige negerhutten in <pb facs="f:72" n=72 id=pb72>volkrijke en prachtige steden, hunne opperhoofden in machtige monarken, en de grondgebieden dezer, in reusachtige rijken, zooals Monemoeëgi en het befaamd Monomotapa.
+
+<p>Van dit tijdstip dagteekenen al die verzinsels en fabels, welke zoolang bedekt en onder eene schoonschijnende uitstalling van valsche wetenschap verpletterd hebben de gegevens van algemeene aardrijkskunde, verzameld door de eerste onderzoekers.
+
+<p>Hoemeer men de zaak bestudeert, hoe stelliger de overtuiging wordt, dat tot in de <hi rend=sc>XIX</hi><hi rend=sup>e</hi> eeuw toe het geen enkelen onderzoekingsreiziger gelukt is, door te dringen tot in &apos;t binnenste van dit geheimzinnig gedeelte van &apos;t vasteland, door de aardrijkskundige Conferencie van Brussel aangeduid onder de benaming van centraal Afrika.
+
+<milestone unit=tb>
+
+<p>In 1855 lieten de oude dwalingen eene laatste maal van zich hooren: de Engelsche missionarissen, verblijvende te Mombas, ten noorden van Zanzibar, verkondigden opnieuw, eenige wijzigingen daargelaten, de leer, sedert 1551 door den beroemden Portugeeschen geschiedschrijver de Barros voorgestaan, en volgens welke zich tot eene enkele en onmetelijke binnenzee vereenigden de verschillige meren, waarvan de verslagen der negers en Arabische handelaars het bestaan onbepaald hadden opgegeven.
+
+<pb facs="f:73" n=73 id=pb73><p>Maar het plechtig uur der ontdekking ging slaan; de natuurwonderen, die, in weerwil van eenen strijd van drie eeuwen, zoomin door het zwaard des overwinnaars als door het kruis van den missionaris hadden kunnen ontsluierd worden, zou de moderne wetenschap thans veropenbaren.
+
+<p>Drie Engelschen, de eerwaarde Livingstone langs den eenen kant, en de kapiteins Burton en Speke langs den anderen, laten bijbel en degen varen en rukken op, enkel gewapend met den reisstok van den voetganger en den sextant van den waarnemer. Zij marscheeren altijd door, recht vóor hen uit, met woorden van vrede in den mond en den olijftak in de hand; in naam der wetenschap en der menschheid gaan zij het onbekende en de barbaarschheid te lijf... en dadelijk is de sluier vaneengescheurd. Eere aan hen, die bij de eersten waren om zulke edele verovering te beginnen en den weg te banen voor die rei van kloekmoedige mannen, welke sedert vijf en twintig jaar Afrika met hunne daden vervullen!
+
+<milestone unit=tb>
+
+<p>Het is den 13<hi rend=sup>den</hi> Februari 1858, dat Burton en Speke het meer Tanganika ontdekten, te Oejiji, op den noordoostelijken oever.
+
+<p>Negen jaar later bereikte Livingstone den zuidelijken boord en onderzocht de streken, gelegen ten westen, tot aan Loealaba (Congo), waarvan hij den <pb facs="f:74" n=74 id=pb74>majesteitvollen loop in het hart van Afrika het eerst begroette.
+
+<p>Het is tijdens dezen tocht, en terwijl de befaamde Engelsche reiziger, uitgeput en ziek, zonder hulpmiddelen, en verlaten door een groot gedeelte zijner dienaars, op het punt was, vergeten te sterven in &apos;t dorp Oejiji, dat eensklaps aan zijne zijde verscheen, als een <hi lang=la>Deus ex machina</hi>, de onverschrokken Stanley.
+
+<p>Deze treffende ontmoeting zal eene der schoonste bladzijden blijven in de geschiedenis van het Tanganikameer. Zij greep plaats den 10<hi rend=sup>den</hi> November 1871. Hoor Stanley zelf.
+
+<milestone unit=tb>
+
+«&mdash;Ontplooit de vaandels en laadt de geweren.
+
+<p>&mdash;Eh! Oeallah! eh! Oellah boeana! antwoorden vurige stemmen.
+
+<p>&mdash;Eén, twee, drie!...
+
+<p>Bij de vijftig geweren knallen. Hun gedonder, gelijk aan dat van &apos;t kanon, blijft in &apos;t dorp niet zonder uitwerksel.
+
+<p>&mdash;Kirangozi, hoog omhoog de banier van den blanken man. Laat in de achterhoede het vaandel van Zanzibar waaien. Sluit de rangen en zet de losbrandingen voort tot vóór het huis van den ouden moesoengoe. Gij hebt mij dikwijls gezegd, dat gij den visch van Tanganika begont te rieken; heden krijg ik er zelf de lucht van. Visch, bier en eene lange rust wachten u. Voorwaarts!
+
+<pb facs="f:75" n=75 id=pb75><p>Wij hadden geene tweehonderd meters afgelegd, of de menigte snelde ons te gemoet...
+
+<p>Middelerwijl hield de karavaan stil, de kirangozi aan &apos;t hoofd, zijne banier dragende zoo hoog mogelijk.
+
+<p>&mdash;Ik zie den doctor, mijnheer, zegde mij Selim; wat is hij oud!
+
+<p>Wat had ik niet gegeven voor een klein hoekje woestijn, waar ik mij ongemerkt aan de eene of andere dwaasheid had kunnen overleveren: in mijne eigen hand bijten, eene buiteling maken, de zweep over de boomen leggen, kortom, den vrijen loop gunnen aan de vreugde, die mij verstikte! Mijn hart klopte om te breken; maar ik liet mijne aandoening op mijn gelaat niet doorstralen, uit vrees, de waardigheid van mijn ras te benadeelen.
+
+<p>Op eens koos ik de partij, welke mij de beste toescheen. Ik dreef de menigte uiteen en richtte mij, tusschen eene dubbele haag nieuwsgierigen, naar den halven kring Araben, waar de man met grijzen baard vóor stond.
+
+<p>Terwijl ik langzaam voortschreed, bespeurde ik zijne bleekheid en zijn afgemat uiterlijk. Hij droeg eene grijze broek, een rood vest en eene blauwe pet met dofgeworden gouden boordsel. Ik zou naar hem toe hebben willen loopen, maar in tegenwoordigheid van die menigte was ik laf. Ik had hem willen omhelzen, maar hij was Engelschman, en ik wist niet, hoe ik onthaald zou worden.
+
+<pb facs="f:76" n=76 id=pb76><p>Ik handelde dus naar de ingeving mijner blooheid en valschen hoogmoed, naderde met vasten tred en zegde onder het afnemen van mijnen hoed:
+
+<p>&mdash;Doctor Livingstone, naar ik vermoed?
+
+<p>&mdash;Ja, antwoordde hij, zijne pet oplichtend, met een innemend glimlachje.
+
+<p>Meteen waren onze hoofden gedekt en lagen onze handen in elkander.
+
+<p>&mdash;Ik dank God, hervatte ik, wijl hij mij vergund heeft, u te ontmoeten.
+
+<p>&mdash;Ik ben gelukkig, zegde hij, hier te wezen om u te ontvangen.
+
+<p>Ik keerde mij vervolgens naar de Araben, die mij hunne <corr sic="yambo &apos;s">yambo&apos;s</corr> toestuurden en mij door den doctor elk bij zijnen naam werden voorgesteld. Daarop, de omstaanders vergetend, zoowel als degenen, die mijne gevaren hadden gedeeld, volgde ik Livingstone.»
+
+<milestone unit=tb>
+
+<p>Twee jaar later greep een niet minder treffend tooneel plaats te Tabora, tusschen Oejiji en Zanzibar, waar de reddingskaravaan, uit Engeland naar Livingstone gezonden, en bestuurd door den bevelhebber Cameron, het stoffelijk overblijfsel aantrof van hem, die zonder twijfel de grootste der Afrikareizigers blijven zal.
+
+<p>Het is, dunkt mij, eene der edelste bladzijden uit de geschiedenis der menschheid, die, welke de <pb facs="f:77" n=77 id=pb77>herinnering bevat van den heuglijken tocht der trouwe dienaars van den «goeden moesoengo», eerbiedig voortdragend door de Afrikaansche wildernissen het gebalsemde lijk van hunnen hooggeachten meester.
+
+<p>Men heeft van het zwarte ras dikwijls kwaadgesproken. De lastige reis van meer dan vierhonderd mijlen, uitgevoerd ten koste van ontelbare vermoeienissen en ontberingen, zonder van duizend hinderpalen te gewagen, door die handvol eenvoudige en brave menschen, verloren zonder gids in &apos;t hart van het vasteland, om in eene veilige plaats en beschut tegen alle onteering de asch van den blanke neder te leggen, die hun opperhoofd geweest was, welnu! die heldenreis is eene aandoenlijke protestatie van dit lang stiefmoederlijk behandeld ras. Zij bewijst eens te meer, dat er op aarde geen hoekje is, waar de mensch niet vatbaar wordt bevonden voor de edelste gevoelens, en bekwaam voor de schoonste daden.
+
+<p>De bevelhebber Cameron, zijnen tocht voortzettend, kwam op zijne beurt aan de oevers van het Tanganika. Hij doorkruiste er per boot het zuidelijk gedeelte van, verkende zijnen omtrek en ontdekte op zijnen westelijken zoom zijne waterleiding, dit is te zeggen het natuurlijk kanaal, langswaar het afvloeit, de rivier Loekoega, welke tegenwoordig een geweldige vloed is en de onmetelijke kom van <pb facs="f:78" n=78 id=pb78>het meer bepaald verbindt met die van den Congo, en, bij gevolg, met den Atlantischen oceaan.
+
+<p>Na den Engelschman Cameron zag het Tanganika Stanley terug, die er de omreis van voltooide, en eindelijk werd het de beurt van eenen Belg om zich op zijne oevers te komen nederzetten. Zooals wij gezien hebben, landde kapitein Cambier met de eerste expeditie der Afrikaansche Vereeniging den 12<hi rend=sup>den</hi> Augustus 1879 bij het dorp Karema aan.
+
+
+
+
+<pb facs="f:79" n=79 id=pb79>
+<div1 id=ch13 n=XIII>
+<head type=label>XIII</head>
+
+<head>Het Meer en zijne Boorden</head>
+
+
+<p>Het Tanganikameer is een onmetelijke waterplas, bijna in &apos;t midden van het Afrikaansch vasteland gelegen, in vorm bijna gelijk aan dien der Adriatische zee.
+
+<p>Het heeft eene lengte van 609 kilometers, hetgeen, op eenige mijlen na, den afstand van Brussel tot Lyon voorstelt, en zijne oppervlakte bedraagt weinig minder dan die van België.
+
+<p>Eene ontzaglijke menigte afvloeiingen <corr sic=breugen>brengen</corr> er hun water heen: meer dan honderd vijf en twintig rivieren, zonder de beken te rekenen. Tijdens het regenseizoen veranderen al die waterloopen, groote en kleine, op eenige minuten in onstuimige vloeden. De overmaat van &apos;t meer vloeit dan weg langs de Loekoega.
+
+<p>Die ontelbare afvloeiingen voeren ook naar het Tanganika eene overgroote hoeveelheid vlottende <pb facs="f:80" n=80 id=pb80>eilandjes, bestaande uit planten, en dikwijls struiken en zelfs boomen dragend. Hun aanblik is zeer eigenaardig; soms ziet men er meer dan vijftig op den effen plas van &apos;t meer, waar zij uit de verte op schepen zonder zeil gelijken.
+
+<p>De diepte van &apos;t meer is op sommige punten buitengewoon: het peillood is wel eens neergedaald tot vier en vijfhonderd meters, zonder den bodem te raken.
+
+<p>Als het weder kalm is, is zijne rust merkwaardig. Maar wanneer de wind het voortzweept en onstuimig maakt, dan heeft het, zooals alle smalle en diep ingesloten zeeën, plotselinge stormen van eene ongeloofelijke hevigheid. Ook wagen de visschers zich niet gemakkelijk in &apos;t midden van het meer. Gewoonlijk volgen zij de kust, om, bij het minste kwaad voorteeken, eene wijkplaats te zoeken binnen de menigvuldige inhammen, die er de lijn van breken.
+
+<milestone unit=tb>
+
+<p>De oevers leveren overal den schilderachtigsten aanblik op. «Om, zegt Cameron, aan al de schoonheid der boorden van het Tanganika te gelooven, moet men ze gezien hebben. Het schitterend en afwisselend groen van het gebladerte, het lichtrood van den zandsteen der kusten, het blauw van &apos;t water, dit alles maakt eene kleurenmengeling uit, <pb facs="f:81" n=81 id=pb81>welke bij de beschrijving schreeuwend schijnt, doch in de werkelijkheid eene volmaakte harmonie vertoont.»
+
+<p>De heerlijkste geuren zweven boven een ondoordringbaar woud, waarvan de planten eene wonderbare verscheidenheid aanbieden. Hier is &apos;t de reusachtige baobab, de prachtige mvoelee, waar men den stam van <corr sic=uithoolt>uitholt</corr> voor de prauwen van het Tanganika; de borassus, de bauhinia en het bevallige, welriekende kruidje-roer-mij-niet, dat onmetelijke oppervlakten bedekt.
+
+<p>Verder spreiden zich uit als een waaier over de hellingen der heuvels de majestatische mkora, de kostelijke elaïs, wiens gouden vrucht de palmolie schenkt, de msandaroesi, die het kopalhars voortbrengt, de takkige tamar, de teek, de moerbezie-vijgeboom en de bevallige payaboom met zijne lange bloementrossen. Langsheen de oevers, in alle mogelijke hoeken, staan dichte boschjes van loofrijke wortelboomen, van rotangs met hangend gebladerte, van papyrussen en riet, ongenaakbaar gebied der witte ibissen en rozekleurige flamingo&apos;s. Bovendien, op het water, bij de riviermonden, tapijten van eschinomena&apos;s, lotussen en verschillige nymphia&apos;s, door de roodpootige meeuwen, de eenden en gekuifde kraanvogels, de groote gewapende ganzen en breed gevleugelde pelikanen in hunne vlucht eventjes aangeraakt.
+
+<pb facs="f:82" n=82 id=pb82><p>Op verscheidene plaatsen, tusschen het groen gordijn van &apos;t kreupelhout, vertoont de reusachtige rotskuip, die het water van &apos;t meer bevat, hare ruwe wanden. Te Mpimboeë springt eene landtong in het Tanganika vooruit, hetwelk zij schijnt te willen afsluiten; het is eene reuzenmassa granietblokken, verward dooreengeworpen, eene zeer eigenaardige opeenstapeling, die men zou kunnen nemen voor het begin van eenen barenbreker, gemaakt door een geslacht van Titans.
+
+<p>Te Poloengo verheffen zulke reuzenmassa&apos;s zich afgezonderd en vertoonen de wonderlijkste vormen: vooroverhellende blokken, schuinshangende steenen, obelisken en pyramiden. Uit alle spleten, uit alle holten, uit alle hoeken, overal waar zich een weinig aarde heeft kunnen vastzetten, rijzen groote boomen omhoog, vanwaar lianen van twintig tot dertig meters lengte nederdalen, door wier dun loovernet heen men diepe aardkloven bespeurt.
+
+<p>Het zuidelijk uiteinde van &apos;t meer ligt schilderachtig genesteld tusschen de bochten eener bergvlakte, die het uit eene hoogte van twaalf tot vijftien honderd meters beheerscht. Deze steile kustrotsen worden tot de meest grootsche der wereld gerekend.
+
+<p>Talrijke rivieren besproeien het hoogland dier bergvlakte tot aan de plaats, waar hun eensklaps de bodem ontbreekt en zij in den afgrond nederstorten. Er is daar eene heele reeks bekoorlijke <pb facs="f:83" n=83 id=pb83>watervallen, van de hooge toppen afbruisend in de verborgenheden van een immer groen loof. Alles is stilte in die diepe engten, eene stilte, slechts gebroken door het rythmisch geluid der watervallen.
+
+<p>De boomen zijn beweegloos, gelijk ingeslapen door die eeuwige cadans, en &apos;t meer wacht kalm en rustig het woeste kind der bergen af, dat, bij elk zijner sprongen met een levendigeren glans schittert en op den duur onder de gedaante van zilveren stralen in het smaragdgroene water van het Tanganika verdwijnt.
+
+<p>Elders is de oever samengesteld uit eene rij hooge bergen, vaneengescheurd door diepe openingen, kloven en engten van den treffendsten aanblik. Ofwel is de oever lang en moerassig, gansch uitgesneden met baaien en riviermonden, belemmerd door waterplanten. Hier en daar spreidt zich een groen laar uit, waarvan de boorden uit geel zand of uit lichtroode rotsen bestaan.
+
+<milestone unit=tb>
+
+<p>De dorpen, omringd van boschjes borassen en bananen, of van eindelooze dichtbewassen plekken mimosa&apos;s, breiden zich uit tot omlaag bij den rand van &apos;t water. Op den westelijken oever bespeurt men hunne uiteengespreide kegelvormige hutten, te midden van uitgestrekte velden. Men vermoedt, dat het eene vreedzame streek is, en de bewoners voor geene aanvallen van buren vreezen.
+
+<pb facs="f:84" n=84 id=pb84><p>Maar op den oostelijken oever zijn de meeste gehuchten beschut door stevige paalwerken. Eene breede gracht, waarover meestendeels niet anders dan eene gladde plank als brug ligt, gaat deze insluiting vooraf, welke, versterkt door waterpas geplaatste boomstammen, het musket trotseert. Boven de poort van dit paalwerk en aan elken hoek rijzen somtijds forten omhoog, wel voorzien van zware steenen, gansch gereed om naar den vijand te worden geslingerd.
+
+<p>Die vijand is niemand anders dan de <hi>Roegas-Roegas</hi>, namelijk gewapende stroopers, welke de streek afloopen, de karavanen uitplunderen, de dorpen verrassen, do mannen dooden en de vrouwen en kinderen gevangen meenemen. Cameron en Stanley hebben op hunne omreis langs het meer bij elken stap dorpen ontmoet, verwoest of neergebrand door die stoutmoedige stroopers, de schrik der streek.
+
+<p>De vernieling moet reeds lang op groote schaal gebeurd zijn, en Livingstone stelt vast, op zijnen tocht door het oostelijk bekken van het meer, dat de bevolking eertijds buitengewoon sterk moet zijn geweest: al de steenen waren uit de velden weggenomen en er was geen duim akkergrond onbebouwd gebleven.
+
+<milestone unit=tb>
+
+<p>De oeverbewoners van Tanganika, vooral die van <pb facs="f:85" n=85 id=pb85>&apos;t zuidelijk gedeelte, zijn over &apos;t algemeen argeloos en zelfs welwillend. De mannen dragen bijna nooit hunne wapens en hebben de Arabische reizigers, die vreedzaam met hen kwamen handeldrijven, altoos goed onthaald.
+
+<p>Het is eene echte weldaad voor de streek, de vestiging, langs de oevers van &apos;t meer, van Europeesche volksplantingen, welke, meer nog door hun zedelijk gezag dan door hunne stoffelijke macht, de verdelgers uit de verte schrik inboezemen en eindigen zullen met de kom van Tanganika te behoeden voor de invallen der Roegas-Roegas.
+
+
+
+
+<pb facs="f:86" n=86 id=pb86>
+<div1 id=ch14 n=XIV>
+<head type=label>XIV</head>
+
+<head>Karema</head>
+
+
+<p>De plaats, welke de internationale Afrikaansche Vereeniging kapitein Cambier aangewezen had als bijzonder gunstig voor het vestigen eener Europeesche standplaats, was het kleine dorp Karema, op de grens van Oefipa en Oekaoeëndi. Een en ander dezer landen zijn overgroote distrikten, langs de oostkust van Tanganika gelegen, en door de reizen van Livingstone, Stanley en Cameron tot hiertoe slechts onvolledig bekendgemaakt.
+
+<p>«Het is, zegt Stanley, een bergachtig land met schoone wouden en een vruchtbaren grond, besproeid door duizenden waterloopen en in &apos;t bezit eener rijke fauna en flora. Schoon Oekaoeëndi! roept hij uit, betooverende streek! waarmee zou ik de wilde bekoorlijkheid uwer vrije en vruchtbare natuur kunnen vergelijken?
+
+<p>«Europa heeft niets, dat er bij halen kan. Het <pb facs="f:87" n=87 id=pb87>is maar in Mingrelië, Imerithië of Indië, dat ik die schuimende rivieren gevonden heb, die schilderachtige valleien, die fiere heuvels, die heerschzuchtige bergen, die uitgestrekte wouden met indrukwekkende rijen groote boomen, wier rechte en naakte zuilen die lange vergezichten vormen, welke men hier aantreft.
+
+<p>«En wat kracht, wat pracht van wasdom! De bodem is er zoo vruchtbaar, de natuur zoo verleidend, dat men zich, trots de doodelijke uitwasemingen, die er uit opstijgen, aan deze streek hecht, waar een beschaafd volk de <hi>malaria</hi> zou verdrijven en er een land van maken, even gezond als rijk aan voortbrengselen.»
+
+<milestone unit=tb>
+
+<p>Ziehier thans de beschrijving der plaats, zooals Cambier haar vond bij zijne aankomst:
+
+<p>«Karema is gelegen aan het zuidelijk uiteinde der vallei van den Wandolo, eene kleine rivier, welke van het noorden komt en zich in &apos;t meer stort vóor het dorp. Het plein is ongeveer eene mijl breed en begrensd door twee heuvelrijen. Het is volkomen beroofd van boomen; dikke rietstengels van vijf tot zes meters hoogte overdekken het bijna geheel.
+
+<p>«De hutten van &apos;t dorp zijn halfrond van vorm en gansch in stroo opgetrokken, met een rieten geraamte. Zij staan opeengehoopt ten getale van omstreeks honderd vijftig in eenen kring van tachtig <pb facs="f:88" n=88 id=pb88>meters doorsnede, en in geval van brand zou het heele dorp op eenige minuten tijds totaal verwoest zijn.
+
+<p>«De bevolking kan geschat worden op tweehonderd vijftig inwoners, ellendig gekleed met dierenhuiden en rokken uit schors.»
+
+<milestone unit=tb>
+
+<p>Het grondgebied, door Cambier van sultan Kangoa verworven in ruil voor eenige geschenken van weinig waarde, is een uitgestrekt plein, langs alle zijden door bosch omgeven en vooruitspringend, op een kleinen ronden berg, tot diep in &apos;t meer.
+
+<p>Van dit punt geniet men een heerlijken aanblik op den onmetelijken waterplas van het Tanganika en tot op den overstaanden oever, tien tot twaalf mijlen ver. De zware kano&apos;s zonder zeil van het Tanganika gebruiken wel een dozijn uren voor den overtocht.
+
+<p>Het is op eene hoogte, dat de gebouwen der standplaats zijn opgericht. Een twintigtal negers, arbeidend onder de leiding van hun opperhoofd, hebben ze in minder dan acht maanden voltooid.
+
+<p>Het geheel vertoont de algemeene schikking der <hi>tembee&apos;s</hi>, dit is te zeggen der woningen van Oegogo en Oeniamoeësi, met dit verschil, dat het in plaats van vierkant of rechthoekig, zeskantig van vorm is.
+
+<p>Langs de zes zijden eener ruimte, welke zij gansch omsluiten en waarop al de deuren uitkomen, zijn gevestigd de logementen der Zanzibariten en inboorlingen <pb facs="f:89" n=89 id=pb89>in den dienst der statie, de magazijnen en werkplaatsen, zoowel als de stallen der paarden, ezels, koeien, geiten, schapen en verkens van de kolonie. De geitenkudde telt niet minder dan vijf en zeventig koppen, en er zijn meer dan twintig koeien; de neerhof ook&mdash;kippen en duiven&mdash;neemt eene buitengewone uitbreiding.
+
+<p>Heel die samenhang van gebouwen is van adoben,&mdash;kareelen in de zon gedroogd&mdash;en gedekt met platte daken. De buitenmuur, voorafgegaan van eene gracht, is doorboord met kleine openingen<corr sic=.>,</corr> dienende zoowel tot vensters als tot kijk- en schietgaten.
+
+<p>Eindelijk te midden der groote koer, gevormd door dien wijden kring van gebouwen, verheft zich het huis der Europeanen, boven omgeven van eene veranda, en tegen de hitte der zonnestralen beschut door een uitspringend dak, op de wijze der Zwitsersche huisjes.
+
+<p>Voor éen zijner gevels wappert de blauwe vlag met gouden ster van de internationale Vereeniging.
+
+<p>Overal rond de statie zijn de landbouwwerken begonnen; de grond is ontdaan van het riet en de woekerplanten, die hem bedekten, en het zaad, uit Europa meegebracht, is hem toevertrouwd geworden.
+
+<milestone unit=tb>
+
+<p>De vijftien maanden, welke Cambier te Karema <pb facs="f:90" n=90 id=pb90>heeft doorgebracht, zijn alle besteed geworden aan de inrichting der statie. Van zes uur &apos;s morgens af, het gewoon uur van zonnenopgang in die streek, stelde hij zich aan &apos;t werk met het twintigtal zwarten, die in zijnen dienst waren. Die zwarten waren de zonderlingste metselaars, die men zou kunnen uitdenken; niet éen hunner had het minste begrip van loodlijn, en wanneer men hen slechts een uur uit het oog verloor, liep men groot gevaar, &apos;s avonds het werk te zien instorten, overdag met zooveel moeite opgebouwd.
+
+<p>Wat de inwoners van Karema betreft, de luiheid en de verstoktste onverschilligheid zullen hen nog lang beletten, aan de kolonie de medehulp huns arbeids te verleenen. Zij leggen evenwel een goeden aard aan den dag, en de kapitein is menigmaal in de gelegenheid geweest om het te bestatigen. Zoo bijvoorbeeld, wanneer op zekeren dag eene kudde buffels op korten afstand de statie voorbijtrok en er een tiental vuurschoten tegen hen gelost werden, zag hij terstond al de weerbare mannen van &apos;t dorp vol strijdlust komen aangeloopen. Het geweervuur hoorende, hadden zij zich ingebeeld, dat de Roegas-Roegas de standplaats aantastten en zij haastten zich om haar te verdedigen.
+
+<p>Dit bewijst voldingend, dat zij reeds begrepen hebben, welk groot voordeel voor hen de aanwezigheid van den blanken man in hunne nabuurschap <pb facs="f:91" n=91 id=pb91>is, en hoe zij er alle belang bij hebben, tot zijne veiligheid bij te dragen.
+
+<milestone unit=tb>
+
+<p>De avond, te beginnen van vier tot vijf uren, werd over &apos;t algemeen aan de jacht besteed. Zooals wij reeds gezegd hebben, is de fauna van Oekaoeëndi zeer rijk. Kudden buffels en antilopen, zebers en giraffen, everzwijnen van verschillige soort leveren een smakelijk en sappig vleesch op; dit van den zeber vooral wordt door de Europeanen zeer gelust, wijl zijne overeenkomst met goed ossenvleesch heel groot is. Er zijn ook eenden en ganzen in groote hoeveelheid, trapganzen, kwakkels en patrijzen.
+
+<p>Die overvloed van wild lokt menigmaal leeuwen en hyena&apos;s in den omtrek der statie; doch in dit gedeelte van Afrika is de koning der dieren tamelijk bang van aard en gaat nogal spoedig voor den mensch op de vlucht, behalve wanneer hij door den honger gedreven wordt.
+
+<p>Een andere groote hulpbron voor de toekomstige voeding der statie is de visch van het Tanganika. Het meer bevat talrijke soorten. Maar tot heden toe verkeert de vischvangst te Karema nog in de kindsheid, omdat het bouwen van sloepen en &apos;t maken van visscherstuig het peil van &apos;t verstand en de bekwaamheid aldaar ver overtreft.
+
+<p>Het meer is ook sterk bevolkt met krokodillen en rivierpaarden. Deze laatste ontmoet men bij troepen <pb facs="f:92" n=92 id=pb92>van vijftien tot twintig reusachtige vertegenwoordigers. &apos;t Is echter maar &apos;s nachts, dat zij &apos;t wagen, het malsche gras van den oever te komen afvreten. Hun vleesch is een lekkerbeetje voor den inboorling, maar de smaak en de maag der Europeanen zouden er zich niet aan kunnen wennen.
+
+<p>Wat aangaat de krokodillen, welke somtijds zeven en acht meters lengte bereiken, zij mogen in &apos;t water vaak stout en gevaarlijk zijn, te land zijn zij uiterst laf en poetsen de plaat met de snelheid der hagedis bij den minsten onraad.
+
+<milestone unit=tb>
+
+<p>De voeding der oeverbewoners van Tanganika bestaat voornamelijk uit sorgho en maïs, die, in water gekookt, eene brij vormen, en op &apos;t vuur geroosterd, platte koeken. Voor groenten vond Cambier slechts zoete wortelknollen, kauwoerden nog flauwer dan onze rapen, en eene soort van postelein, dat nogal aangenaam is.
+
+<p>Tegenwoordig is de bevolking der standplaats ruim voorzien van Europeesche groenten, zooals boonen, erwten, ajuin, tomatten, koolen, meloenen, artichokken, salaad en radijs.
+
+<p>Het schijnt, dat de spruit vooral buitengewoon gemakkelijk gedijt.
+
+<p>De maïs, de tarwe, de rijst, de Spaansche peper, de katoen, de tabak en de teozint, een allervoedzaamst graangewas voor &apos;t vee, zijn in overvloed <pb facs="f:93" n=93 id=pb93>gezaaid geworden. Het is in April, dat op de oevers van &apos;t meer de oogst geschiedt.
+
+<p>Verder zijn de fruitboomen niet vergeten geworden. De koer der standplaats, evenals de wegen tusschen de velden, zijn beplant met bananen, granaat- en mangoboomen, goyaven, limoen- en papayaboomen, die heerlijk gelukt zijn en op overvloedige vruchten laten hopen voor het volgende seizoen.
+
+<milestone unit=tb>
+
+<p>Op de boorden van het Tanganika kan het jaar verdeeld worden in twee gelijke deelen: het regenseizoen, dat op &apos;t einde van October met hevigheid begint en tot in Mei duurt, en het droog seizoen, hetwelk den jaarkring eindigt. Het is bij den aanvang der regenperiode, dat de natuur ontwaakt en haren verleidendsten aanblik vertoont. De regen valt er niet aanhoudend; hij wordt dikwijls voor eenige uren en soms voor verscheidene dagen onderbroken. De vlagen gaan vaak vergezeld van hevige onweders en zelfs van hagel.
+
+<p>De gemiddelde warmtegraad is, &apos;s morgens om acht uren, van 20 tot 24 centigraden in de schaduw, &apos;s middags van 25 tot 35, en &apos;s avonds om negen uren van 21 tot 23. Het zijn de twee of drij uren voor het opkomen der zon, die het frischte oogenblik van den dag uitmaken
+
+<p>Zooals men ziet is de warmte er in &apos;t algemeen goed uit te staan. Zij komt tamelijk wel overeen met <pb facs="f:94" n=94 id=pb94>die in de straten van Brussel gedurende de maand Augustus. Slechts bij uitzondering bereikt zij 30 tot 32 graden in de lommer.
+
+<p>Karema is zijne betrekkelijk gematigde temperatuur verschuldigd aan zijne ligging op den oever eener groote binnenzee en aan zijne verhevenheid van 825 meters boven den spiegel van den oceaan.
+
+<p>Het zou dus bewoonbaar zijn voor den Europeaan, indien, ten gevolge der overstroomingen, veroorzaakt door zes maanden regen, de gezondheid van &apos;t klimaat niet bedorven ware, onder den invloed van warmte en vochtigheid, zoowel als van eenen wasdom, tot het uiterste gedreven, door de uitwasemingen, die opstijgen uit de slijkpoelen en den afval der planten. De <hi>malaria</hi> tast zonder uitzondering al degenen aan, die in Afrika dringen. Het is eene galkoorts, vergezeld van huiveringen, die verscheidene dagen duurt en dikwijls periodiek wordt. De gevolgen er van zijn verschrikkelijk en duren lang voort, zelfs bij de menschen, begaafd met ziels- en lichaamskracht. Een werkdadig leven, een onophoudende arbeid, eene goede voeding zijn de beste middelen om er den te spoedigen terugkeer van te voorkomen.
+
+<p>Het is geoorloofd te veronderstellen, dat het beslaan der streek door eene talrijke bevolking haar merkelijk gezonder zou maken door de ontginning, het bebouwen der landen en het indijken der rivieren.
+
+
+<pb facs="f:95" n=95 id=pb95>
+
+<figure id=p095>
+<head><hi rend=sc>Luitenant Becker in zijn verblijfskleeding.</hi></head>
+</figure>
+
+
+<pb facs="f:96" n=96 id=pb96><p>Aan de toekomst het vraagstuk op te lossen.
+
+<milestone unit=tb>
+
+<p>Den 3<hi rend=sup>den</hi> December 1880 begroette Cambier de verschijning te Karema van kapitein Ramaekers, luitenant Beker en den heer Roger, die hem kwamen aflossen van zijne lange wacht in het wilde Afrika. De nieuwe expeditie bracht een uiteengenomen stoomschip mede, bestemd voor den dienst der statie en de vaart op het meer. Die boot, <hi>de Cambier</hi> gedoopt ter eere van den stichter van Karema, wacht slechts, om van stapel te loopen, naar de aankomst van een stuk, dat onderweg beschadigd werd en vervangen moest worden.
+
+<p>Hij zal voor de kolonie een krachtig middel van beschavende propaganda zijn. Immers zal hij het personeel der standplaats toelaten, betrekkingen aan te knoopen met al de <corr sic=volkstammen>volksstammen</corr> langs de oevers gevestigd; hij zal de onderzoekingstochten vergemakkelijken naar dit of dat onbekend punt van de streek; hij zal de briefwisseling met de missiën van Oejiji en Mtowa niet weinig bespoedigen. Bij eenen aanval zal hij grooten dienst bewijzen; in een neteligen toestand eene veilige schuilplaats aanbieden.
+
+<p>Het is den 10<hi rend=sup>den</hi> December 1880, dat Cambier Karema verliet voor Zanzibar. Den 23<hi rend=sup>sten</hi> April daaropvolgende keerde hij te Brussel weder, na eene afwezigheid van drij jaar en zes maanden.
+
+<p>Hij had zijne zending met eere volbracht en in <pb facs="f:97" n=97 id=pb97>&apos;t hart der <corr sic=barbaarscheid>barbaarschheid</corr>, tot aandenken van zijn kort verblijf, een reuzenwerk achtergelaten.
+
+<milestone unit=tb>
+
+<p>Karema!
+
+<p>Is het een negernaam, voor eene poos aan de vergetelheid ontrukt om vervolgens dieper dan ooit in de barbaarschheid te storten? Of is het de toekomstige naam eener stad, eener groote markt, waar, onder het geleide en de waakzaamheid van een nieuw negerras, verstandig, geleerd, werkzaam, de natuurlijke voortbrengselen van het groote bekken van Tanganika zullen geruild worden tegen hetgeen er van onze fabrieken en nijverheid te veel is?
+
+<p>Zullen duizenden inboorlingen, uit eenen onheuglijken schijndood opgewekt, zich aldaar eenmaal met ons komen vereenigen, gelijk zooveele bedrijvende leden van de groote menschenfamilie?
+
+<p>Niemand kan &apos;t op dit oogenblik reeds zeggen.
+
+<p>Maar indien dit de toekomst moest wezen, bestemd voor de eerste standplaats der Afrikaansche Vereeniging, dan zou er geen roemrijker monument kunnen opgericht worden voor den schepper van &apos;t werk, dan deze nieuwe stad, gebouwd op het terrein der internationale broederlijkheid door de wetenschap, den arbeid, de volharding en de toewijding.
+
+
+
+<pb facs="f:98" n=98 id=pb98>
+<div1 id=ch15 n=XV>
+<head type=label>XV</head>
+
+<head>De Toekomst van Midden-Afrika</head>
+
+
+<p>Het is heden een onloochenbaar feit, dat de verheven hoogvlakte van centraal Afrika eene der rijkste streken der wereld is, een wonderbaar land, wiens voortbrengselen in tal en verscheidenheid die van de meest bevoordeelde streken van den aardbol evenaren.
+
+<p>De katoen, de koffie, het suikerriet, de indigo- en muskaatboom, de peperboom, de christuspalm, die overal elders allerlei zorg vereischen, groeien hier vanzelf.
+
+<p>De sesam en de arachide, geteeld op verschillige plaatsen langs de kust, maken het voorwerp uit van een belangrijken handel met Europa, evenals de palmolie, die bij de Monding van Niger en Congo, de maatschappelijke hervorming heeft begonnen van de kustbewoners.
+
+<p>De gomsoorten, het kopalhars en het caoutchouc, artikels van zulke groote waarde, worden geleverd door boomen, welke men bijna overal ontmoet.
+
+<pb facs="f:99" n=99 id=pb99><p>En eindelijk de graangewassen en groenten geven twee en drij oogsten per jaar, zóo groot is de voortbrengende kracht van den grond, van zulke overvloedige vruchtbaarheid is dit aangeslijkt terrein. Ziedaar, met de kostelijke soorten timmer<corr sic="&mdash;">-</corr> en nijverheidshout, en om slechts eenige treffende voorbeelden aan te halen, ziedaar voor het plantenrijk.
+
+<p>Het dierenrijk levert ivoor, waarin zulke aanzienlijke handel wordt gedreven, struisvederen, huiden, was, enz., zonder van al de wilde dieren te spreken, de bewoners onzer dierentuinen, menageriën en vluchten.
+
+<p>De rijkdom aan delfstoffen is nog niet te overzien. Nochtans weet men van nu af reeds, dat het ijzer bewerkt wordt door al de stammen van <corr sic="t&apos;">&apos;t</corr> binnenland, dat goud en koper in menige streek werden bespeurd, dat de Zambezia een onmetelijk kolenbekken doorloopt, en dat de aanwezigheid dier kostbare brandstof erkend is op de boorden van het Tanganika- en het Nyanzameer.
+
+<p>Deze beknopte opsomming is slechts een vluchtig overzicht van de natuurlijke rijkdommen, door Livingstone, Cameron, Stanley en anderen in &apos;t voorbijgaan ontdekt, op hunne onderzoekingstochten door de Afrikaansche hoogvlakte.
+
+<milestone unit=tb>
+
+<p>Pas aangemeld, zijn die schatten reeds, door de natuur vrij en edelmoedig aangeboden aan de <pb facs="f:100" n=100 id=pb100>eersten, die ze zullen weten in te zamelen, het voorwerp van veler begeerlijkheid, zooals men wel kan gissen; en hij, die bekend is met de verslindende arbeidskracht en den overweldigenden geest van het blanke ras, kan voorspellen, dat zij eenmaal het voorwerp zullen wezen eener geregelde uitbating vanwege Europa.
+
+<p>Het is deze wettige uitbating, welke al de vrienden van beschaving, zij mogen zich plaatsen op een menschelijk, wetenschappelijk, godsdienstig of handelsstandpunt, uit al hunne krachten moeten uitlokken. Zij alleen bezit den tooverstaf om dit verachterd land tot het leven te roepen en het deel te doen nemen aan de verstandelijke en stoffelijke beweging der wereld, door rondom zich het werk te verspreiden, het heilige werk, bron van alle goed: vrede, overvloed, vreugd en voorspoed.
+
+<p>Stellig zal de dag aanbreken, waarop deze onmetelijke streek, heden nauwelijks gekend, en ondanks de hinderpalen, die er de nadering van bemoeilijken, tot in hare kleinste hoeken zal overgeleverd worden aan de studiën, opzoekingen, nasporingen en ondernemingen van de beschaafde wereld.
+
+<p>Dit loochenen is der menschen werkkracht en vernuft loochenen.
+
+<milestone unit=tb>
+
+
+<figure id=p101>
+<head>Zicht van Karema bij vogelvlucht.</head>
+</figure>
+
+
+<p>Maar het klimaat!
+
+<p>Ziedaar de eerste en voornaamste bedenking, <pb facs="f:102" n=102 id=pb102>opkomend in den geest van elk practisch man, die naar de mogelijkheid uitziet om zich in de keerkringstreken te vestigen.
+
+<p>Ja, de ongezondheid van &apos;t Afrikaansch klimaat, zoo noodlottig voor den Europeaan, is de ernstigste dam, dien de natuur den vooruitgang in den weg stelt. Maar wil dit zeggen, dat men voor dit bezwaar moet terugdeinzen, hoe onoverkomelijk het ook schijne?
+
+<p>Om slechts éen voorbeeld aan te halen, zal ik vragen, of het doodend klimaat van Midden-Amerika, bestendig verblijf van koortsen en besmettelijke ziekten, waardoor duizenden menschenlevens sedert de ontdekking werden weggemaaid, den heer de Lesseps éen oogenblik heeft doen aarzelen om in dit afschrikkend midden eene der reusachtigste ondernemingen der moderne tijden te beginnen? Of het zijne medewerkers belet heeft, hem met geestdrift te volgen, de kapitalen, er met vertrouwen heen te vloeien, en duizenden armen, zich toe te wijden aan het stoffelijk gedeelte van &apos;t werk?
+
+<p>Neen, niets vermag het voortrukken van den vooruitgang lang legen te houden. Men hebbe vertrouwen in de macht van het menschelijk vernuft.
+
+<p>Op dit punt is &apos;t niet noodig aan te dringen op de voordeelen, welke men zou trekken uit een nieuw geslacht van negers, gewend aan den landbouw en de verschillige ambachten, onder de oogen der Europeanen. <pb facs="f:103" n=103 id=pb103>Afrika, zoo noodlottig voor deze laatsten, zou geopend kunnen worden voor den handel en de beschaving, dank aan dit negergeslacht, hetwelk men aan het hoofd der kantoren kon plaatsen, onder het toezicht van algemeene Europeesche agenten. Deze zouden gedurig over en weer gaan tusschen Europa en de factorijen, naar hier brengende de voortbrengselen dier streken, en naar ginder meenemend den overvloed onzer nationale nijverheid.
+
+<p>Ziedaar den te volgen weg, wel te verstaan voor de eerste periode van de exploitatie, want dit werk van langen adem zal zijne verschillige phasen beleven, ieder met eigen middelen van uitvoering. Engeland heeft dit volmaakt begrepen, en reeds bezit het langs heel den Beneden-Niger eene reeks van twaalf tot vijftien factorijen, handels- of landbouwstatiën, onder elkander verbonden door eenen wel ingerichten dienst van kleine stoomschepen. Het grootste getal dezer statiën wordt bestuurd door verstandige, geleerde en eerlijke negers.
+
+<milestone unit=tb>
+
+<p>De eerst te maken propaganda is buiten kijf de handelspropaganda, en de eerste missiën, welke men moet daarstellen, zijn handelskantoren. Maar deze kunnen in een nieuw land niet met vrucht ingericht worden, dan onder de leiding van wetenschappelijke wroeters, de onderzoekingsreizigers. Wetenschap en handel: ziedaar de twee hefboomen, welke Afrika <pb facs="f:104" n=104 id=pb104>moeten hervormen. De eerste zal de wegen aanwijzen; de tweede zal ze openen. Want hetgeen er in Afrika allereerst noodig is, dat zijn wegen, gemeenschapswegen.
+
+<p>En wanneer ik zeg hervormen, geef ik aan dit woord de breedst mogelijke beteekenis, zonder dees of geen bepaald doel te beoogen, zonder meer in &apos;t bijzonder te willen spreken van de exploitatie, de beschaving, de verchristening, dan van de afschaffing van den slavenhandel of de uitbating der natuurlijke voortbrengselen. Afrika herscheppen, het is, in de bedrijvigheid der wereld een deel geven aan dit continent, ingesluimerd sedert het begin der tijden.
+
+<p>Dit is voorwaar! eene groote onderneming, waarvoor elkeen niet anders dan belangstelling, sympathie en eerbied gevoelen kan. Zij zal lang en moeilijk zijn, buiten allen twijfel; maar zulk vooruitzicht schrikt den wroeter voor beschaving geenszins af. De geschiedenis is daar om te bewijzen, dat al de overwinningen, waarop de menschheid zoo rechtmatig fier is, haar langdurige krachtsinspanning en groote opofferingen gekost hebben. Wat de moeilijkheid uitmaakt van een werk, is er ook de grootheid van.
+
+<p>Het zal België alweder doen stijgen in den eerbied der natiën, die edelmoedige en krachtdadige hulp, welke het bijbrengt in het werk van Afrika. <pb facs="f:105" n=105 id=pb105>Indien het grootsche plan des konings de ondersteuning blijft ontmoeten, die het verdient, mag men volkomen zeker zijn, dat het eenmaal vrucht zal dragen.
+
+<p>Hoewel de wetenschappelijke en gastvrije statiën der internationale vereeniging hoegenaamd geen handelskarakter dragen, brengen zij als vanzelf den landbouw en den koophandel aan, benevens de uitbating der rijkdommen van bosch en mijn. Het wetenschappelijk werk is slechts de inleiding tot handelswerk. Het bijzonder initiatief des konings heeft het eerste gedaan; aan het publiek, zich thans het tweede aan te trekken.
+
+<p>België bezit de dichtste bevolking ter wereld, en zijn stoffelijk fortuin is in evenredigheid met zijne natuurlijke voordeelen. Ons volk kan er op bogen, tusschen de meest gevorderde natiën van Europa geteld te worden, en het is met reden fier op zijne verstandelijke ontwikkeling en bloeiende nijverheid. Het bezit, voor den uitvoer van den overvloed zijner producten, eene der schoonste havens van Europa, en het zal eene handelsvloot hebben, zoodra het zulks ernstig zal willen. Bovendien bezit het hart en moed, want nooit is er te vergeefs een beroep gedaan op de zelfopoffering en de dapperheid zijner kinderen: iederen keer dat men tien Belgen gevraagd heeft voor een post van eer, hebben er zich honderd aangeboden. Het heeft te huis, bij der hand, alwat er <pb facs="f:106" n=106 id=pb106>noodig is om te slagen en de stoutste plannen zonder aarzelen aan te vatten.
+
+<p>Dat België dus maar durve!
+
+<p>Dat het niet onverschillig blijve voor een vraagpunt, hetwelk op dit oogenblik al de voortbrengende landen bezighoudt: het weze indachtig, hoeveel voorspoed en ware grootheid Portugal, Spanje, Engeland en Nederland niet te danken hebben aan de verre ondernemingen hunner kinderen, en het lette op den Congo.
+
+<p>Indien België wil, kan het daar ginder, tot zijnen meerderen roem zoowel als tot zijn meerder voordeel, eene der heerlijkste menschverheffende en handelsondernemingen dezer eeuw tot stand brengen.
+
+<p>Het werk is begonnen, het wordt krachtig ondersteund en verricht door eene keurbende van arbeiders.
+
+<p>Stanley, aan &apos;t hoofd van een echt leger, zet de eerste houweelslagen in &apos;t westen. Zijne reusachtige pogingen werden eindelijk met den besten uitslag bekroond. Hij heeft de zestig Livingstone-watervallen overschreden en zijne tent geplaatst op de boorden van het Stanley-Pool. De Belgische vlag <corr sic=wapport>wappert</corr> boven de poort der nieuwe wereld.
+
+<p>Cambier heeft den eersten steen gelegd in &apos;t oosten. Hiervoor heb ik verteld, met welken edelen ijver en welke onwrikbare volharding hij zich van zijne zending gekweten heeft.
+
+<pb facs="f:107" n=107 id=pb107><p>Tusschen deze twee punten, Vivi in &apos;t westen en Karema in &apos;t oosten, doorheen eene streek zesmaal zoo groot als Duitschland, vloeit de machtige Congo, reusachtigste stroom der wereld, de prachtigste baan voor de <corr sic=stroombooten>stoombooten</corr> van Europa, de grootste natuurweg van Midden-Afrika.
+
+<p>Langs zijne wonderbare oevers liggen werelden te ontdekken, zijn de edelste overwinningen te behalen, de meest verheven werken uit te voeren, de rijkste oogsten te verzamelen...
+
+<p>Wie wil ze?
+
+
+<trailer rend="align(center)">EINDE.</trailer>
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+        ([0-9])\&ndash;([0-9])/([0-9])      \1\&frac\2\3;
+        ([0-9])/([0-9])                     \&frac\1\2;
+        ([0-9])\&ndash;([0-9]+)/([0-9]+)    \1\&frac\2-\3;
+        ([0-9]+)/([0-9]+)                   \&frac\1-\2;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
